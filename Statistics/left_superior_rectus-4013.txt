@@ -1,0 +1,12 @@
+Name:  left_superior_rectus
+Label: 4013
+    count: 728
+    min: 80
+    max: 7731
+    median: 1638.38
+    mean: 335.262
+    sigma: 305.428
+    variance: 93286
+    sum: 244071
+    region: index(51, 132, 151) size(33, 13, 18)
+    bounding box: (51, 83) (132, 144) (151, 168) 

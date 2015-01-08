@@ -1,0 +1,12 @@
+Name:  right_palatopharyngeus
+Label: 4038
+    count: 355
+    min: 103
+    max: 727
+    median: 1638.38
+    mean: 514.566
+    sigma: 69.4803
+    variance: 4827.51
+    sum: 182671
+    region: index(92, 211, 112) size(9, 22, 14)
+    bounding box: (92, 100) (211, 232) (112, 125) 

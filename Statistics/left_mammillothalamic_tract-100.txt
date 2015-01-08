@@ -1,0 +1,12 @@
+Name:  left_mammillothalamic_tract
+Label: 100
+    count: 30
+    min: 291
+    max: 512
+    median: 1638.38
+    mean: 452.033
+    sigma: 46.1926
+    variance: 2133.76
+    sum: 13561
+    region: index(123, 136, 129) size(6, 6, 5)
+    bounding box: (123, 128) (136, 141) (129, 133) 

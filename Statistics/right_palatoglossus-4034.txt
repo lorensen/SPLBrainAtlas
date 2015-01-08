@@ -1,0 +1,12 @@
+Name:  right_palatoglossus
+Label: 4034
+    count: 995
+    min: 80
+    max: 812
+    median: 1638.38
+    mean: 460.294
+    sigma: 95.5605
+    variance: 9131.81
+    sum: 457993
+    region: index(87, 186, 103) size(17, 17, 15)
+    bounding box: (87, 103) (186, 202) (103, 117) 

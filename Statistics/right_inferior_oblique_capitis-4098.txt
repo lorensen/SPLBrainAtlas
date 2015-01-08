@@ -1,0 +1,12 @@
+Name:  right_inferior_oblique_capitis
+Label: 4098
+    count: 7460
+    min: 112
+    max: 13988
+    median: 1638.38
+    mean: 461.371
+    sigma: 247.977
+    variance: 61492.4
+    sum: 3.44183e+06
+    region: index(118, 219, 89) size(42, 29, 40)
+    bounding box: (118, 159) (219, 247) (89, 128) 

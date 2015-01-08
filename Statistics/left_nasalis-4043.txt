@@ -1,0 +1,12 @@
+Name:  left_nasalis
+Label: 4043
+    count: 385
+    min: 102
+    max: 634
+    median: 1638.38
+    mean: 424.686
+    sigma: 97.4088
+    variance: 9488.47
+    sum: 163504
+    region: index(21, 171, 138) size(15, 9, 10)
+    bounding box: (21, 35) (171, 179) (138, 147) 

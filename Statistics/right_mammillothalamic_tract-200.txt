@@ -1,0 +1,12 @@
+Name:  right_mammillothalamic_tract
+Label: 200
+    count: 35
+    min: 272
+    max: 538
+    median: 1638.38
+    mean: 450.457
+    sigma: 50.4523
+    variance: 2545.43
+    sum: 15766
+    region: index(123, 136, 125) size(7, 6, 5)
+    bounding box: (123, 129) (136, 141) (125, 129) 

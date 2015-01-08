@@ -1,0 +1,12 @@
+Name:  right_ventral_posteromedial_thalamic_nucleus
+Label: 522
+    count: 263
+    min: 383
+    max: 480
+    median: 1638.38
+    mean: 429.977
+    sigma: 21.6031
+    variance: 466.694
+    sum: 113084
+    region: index(135, 131, 112) size(12, 10, 11)
+    bounding box: (135, 146) (131, 140) (112, 122) 

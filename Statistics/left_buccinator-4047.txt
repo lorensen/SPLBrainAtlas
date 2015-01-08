@@ -1,0 +1,12 @@
+Name:  left_buccinator
+Label: 4047
+    count: 4081
+    min: 38
+    max: 22866
+    median: 1638.38
+    mean: 301.031
+    sigma: 582.633
+    variance: 339462
+    sum: 1.22851e+06
+    region: index(37, 196, 154) size(51, 31, 18)
+    bounding box: (37, 87) (196, 226) (154, 171) 

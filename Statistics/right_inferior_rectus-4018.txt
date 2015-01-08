@@ -1,0 +1,12 @@
+Name:  right_inferior_rectus
+Label: 4018
+    count: 692
+    min: 65
+    max: 16453
+    median: 1638.38
+    mean: 374.059
+    sigma: 836.026
+    variance: 698939
+    sum: 258849
+    region: index(56, 155, 100) size(31, 13, 16)
+    bounding box: (56, 86) (155, 167) (100, 115) 

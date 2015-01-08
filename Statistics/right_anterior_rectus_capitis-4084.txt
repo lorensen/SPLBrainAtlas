@@ -1,0 +1,12 @@
+Name:  right_anterior_rectus_capitis
+Label: 4084
+    count: 832
+    min: 184
+    max: 770
+    median: 1638.38
+    mean: 488.064
+    sigma: 88.1743
+    variance: 7774.7
+    sum: 406069
+    region: index(119, 189, 106) size(11, 18, 19)
+    bounding box: (119, 129) (189, 206) (106, 124) 

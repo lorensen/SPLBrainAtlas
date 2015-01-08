@@ -1,0 +1,12 @@
+Name:  right_Dentate_nucleus
+Label: 375
+    count: 912
+    min: 454
+    max: 595
+    median: 1638.38
+    mean: 527.247
+    sigma: 18.9898
+    variance: 360.612
+    sum: 480849
+    region: index(160, 168, 104) size(22, 18, 19)
+    bounding box: (160, 181) (168, 185) (104, 122) 

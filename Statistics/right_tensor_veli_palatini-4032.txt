@@ -1,0 +1,12 @@
+Name:  right_tensor_veli_palatini
+Label: 4032
+    count: 234
+    min: 150
+    max: 707
+    median: 1638.38
+    mean: 404.782
+    sigma: 103.432
+    variance: 10698.2
+    sum: 94719
+    region: index(92, 204, 112) size(12, 10, 9)
+    bounding box: (92, 103) (204, 213) (112, 120) 

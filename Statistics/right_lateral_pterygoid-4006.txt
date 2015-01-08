@@ -1,0 +1,12 @@
+Name:  right_lateral_pterygoid
+Label: 4006
+    count: 5185
+    min: 65
+    max: 8429
+    median: 1638.38
+    mean: 417.767
+    sigma: 143.088
+    variance: 20474.1
+    sum: 2.16612e+06
+    region: index(88, 185, 80) size(31, 20, 28)
+    bounding box: (88, 118) (185, 204) (80, 107) 

@@ -1,0 +1,12 @@
+Name:  right_superior_temporal_gyrus_(banks_of_right_superior_temporal_sulcus)
+Label: 2001
+    count: 2367
+    min: 130
+    max: 599
+    median: 1638.38
+    mean: 389.22
+    sigma: 65.18
+    variance: 4248.43
+    sum: 921283
+    region: index(150, 124, 63) size(19, 29, 26)
+    bounding box: (150, 168) (124, 152) (63, 88) 

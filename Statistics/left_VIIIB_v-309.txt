@@ -1,0 +1,12 @@
+Name:  left_VIIIB_v
+Label: 309
+    count: 306
+    min: 279
+    max: 558
+    median: 1638.38
+    mean: 464.059
+    sigma: 50.7546
+    variance: 2576.03
+    sum: 142002
+    region: index(174, 174, 128) size(7, 15, 9)
+    bounding box: (174, 180) (174, 188) (128, 136) 

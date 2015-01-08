@@ -1,0 +1,12 @@
+Name:  left_superior_oblique_capitis
+Label: 4079
+    count: 3642
+    min: 56
+    max: 13806
+    median: 1638.38
+    mean: 395.029
+    sigma: 266.141
+    variance: 70831.3
+    sum: 1.4387e+06
+    region: index(125, 209, 158) size(50, 12, 22)
+    bounding box: (125, 174) (209, 220) (158, 179) 

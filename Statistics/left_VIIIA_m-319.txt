@@ -1,0 +1,12 @@
+Name:  left_VIIIA_m
+Label: 319
+    count: 773
+    min: 129
+    max: 573
+    median: 1638.38
+    mean: 398.781
+    sigma: 92.8638
+    variance: 8623.68
+    sum: 308258
+    region: index(175, 175, 133) size(17, 24, 14)
+    bounding box: (175, 191) (175, 198) (133, 146) 

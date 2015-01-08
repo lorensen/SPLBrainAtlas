@@ -1,0 +1,12 @@
+Name:  pineal_body
+Label: 72
+    count: 99
+    min: 98
+    max: 422
+    median: 1638.38
+    mean: 271.414
+    sigma: 74.0977
+    variance: 5490.47
+    sum: 26870
+    region: index(144, 135, 125) size(9, 5, 5)
+    bounding box: (144, 152) (135, 139) (125, 129) 

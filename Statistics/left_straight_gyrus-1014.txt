@@ -1,0 +1,12 @@
+Name:  left_straight_gyrus
+Label: 1014
+    count: 4709
+    min: 92
+    max: 572
+    median: 1638.38
+    mean: 353.553
+    sigma: 61.0808
+    variance: 3730.87
+    sum: 1.66488e+06
+    region: index(51, 110, 129) size(57, 37, 15)
+    bounding box: (51, 107) (110, 146) (129, 143) 

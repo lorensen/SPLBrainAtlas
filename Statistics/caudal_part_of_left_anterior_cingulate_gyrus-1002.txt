@@ -1,0 +1,12 @@
+Name:  caudal_part_of_left_anterior_cingulate_gyrus
+Label: 1002
+    count: 1740
+    min: 121
+    max: 22876
+    median: 1638.38
+    mean: 377.477
+    sigma: 971.422
+    variance: 943661
+    sum: 656810
+    region: index(83, 93, 127) size(44, 19, 13)
+    bounding box: (83, 126) (93, 111) (127, 139) 

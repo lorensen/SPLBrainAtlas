@@ -1,0 +1,12 @@
+Name:  right_anterior_superior_hypothalamus
+Label: 385
+    count: 41
+    min: 378
+    max: 491
+    median: 1638.38
+    mean: 435.341
+    sigma: 24.7736
+    variance: 613.73
+    sum: 17849
+    region: index(111, 134, 122) size(4, 3, 7)
+    bounding box: (111, 114) (134, 136) (122, 128) 

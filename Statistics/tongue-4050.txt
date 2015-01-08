@@ -1,0 +1,12 @@
+Name:  tongue
+Label: 4050
+    count: 69168
+    min: 45
+    max: 38006
+    median: 1638.38
+    mean: 349.494
+    sigma: 495.679
+    variance: 245697
+    sum: 2.41738e+07
+    region: index(28, 199, 110) size(73, 49, 44)
+    bounding box: (28, 100) (199, 247) (110, 153) 

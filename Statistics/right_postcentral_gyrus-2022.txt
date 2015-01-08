@@ -1,0 +1,12 @@
+Name:  right_postcentral_gyrus
+Label: 2022
+    count: 9854
+    min: 91
+    max: 709
+    median: 1638.38
+    mean: 428.818
+    sigma: 85.4947
+    variance: 7309.35
+    sum: 4.22557e+06
+    region: index(112, 70, 65) size(68, 61, 56)
+    bounding box: (112, 179) (70, 130) (65, 120) 

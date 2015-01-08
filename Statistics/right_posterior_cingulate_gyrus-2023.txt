@@ -1,0 +1,12 @@
+Name:  right_posterior_cingulate_gyrus
+Label: 2023
+    count: 4188
+    min: 161
+    max: 508
+    median: 1638.38
+    mean: 372.386
+    sigma: 45.7763
+    variance: 2095.47
+    sum: 1.55955e+06
+    region: index(116, 84, 109) size(48, 32, 19)
+    bounding box: (116, 163) (84, 115) (109, 127) 

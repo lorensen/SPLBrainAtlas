@@ -1,0 +1,12 @@
+Name:  right_inferior_parietal_lobule
+Label: 2008
+    count: 16174
+    min: 134
+    max: 4865
+    median: 1638.38
+    mean: 446.7
+    sigma: 89.9326
+    variance: 8087.87
+    sum: 7.22492e+06
+    region: index(158, 96, 64) size(49, 50, 33)
+    bounding box: (158, 206) (96, 145) (64, 96) 

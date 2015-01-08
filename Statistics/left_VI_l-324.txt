@@ -1,0 +1,12 @@
+Name:  left_VI_l
+Label: 324
+    count: 6995
+    min: 114
+    max: 610
+    median: 1638.38
+    mean: 392.144
+    sigma: 57.7674
+    variance: 3337.07
+    sum: 2.74304e+06
+    region: index(146, 163, 147) size(56, 18, 26)
+    bounding box: (146, 201) (163, 180) (147, 172) 

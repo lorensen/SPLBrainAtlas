@@ -1,0 +1,12 @@
+Name:  right_VIIAt_v
+Label: 340
+    count: 21
+    min: 338
+    max: 538
+    median: 1638.38
+    mean: 428.714
+    sigma: 50.4442
+    variance: 2544.61
+    sum: 9003
+    region: index(189, 178, 124) size(4, 3, 4)
+    bounding box: (189, 192) (178, 180) (124, 127) 

@@ -1,0 +1,12 @@
+Name:  right_putamen
+Label: 51
+    count: 5607
+    min: 269
+    max: 499
+    median: 1638.38
+    mean: 403.151
+    sigma: 27.8093
+    variance: 773.359
+    sum: 2.26047e+06
+    region: index(94, 117, 98) size(47, 29, 18)
+    bounding box: (94, 140) (117, 145) (98, 115) 

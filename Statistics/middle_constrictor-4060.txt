@@ -1,0 +1,12 @@
+Name:  middle_constrictor
+Label: 4060
+    count: 8961
+    min: 28
+    max: 37962
+    median: 1638.38
+    mean: 494.485
+    sigma: 717.605
+    variance: 514958
+    sum: 4.43108e+06
+    region: index(97, 185, 109) size(18, 63, 46)
+    bounding box: (97, 114) (185, 247) (109, 154) 

@@ -1,0 +1,12 @@
+Name:  right_nasalis
+Label: 4044
+    count: 426
+    min: 114
+    max: 664
+    median: 1638.38
+    mean: 406.657
+    sigma: 86.4321
+    variance: 7470.51
+    sum: 173236
+    region: index(21, 171, 118) size(18, 9, 9)
+    bounding box: (21, 38) (171, 179) (118, 126) 

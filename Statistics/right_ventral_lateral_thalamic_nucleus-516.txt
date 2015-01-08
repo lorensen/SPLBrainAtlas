@@ -1,0 +1,12 @@
+Name:  right_ventral_lateral_thalamic_nucleus
+Label: 516
+    count: 877
+    min: 400
+    max: 507
+    median: 1638.38
+    mean: 445.727
+    sigma: 20.6487
+    variance: 426.37
+    sum: 390903
+    region: index(124, 118, 110) size(13, 22, 14)
+    bounding box: (124, 136) (118, 139) (110, 123) 

@@ -1,0 +1,12 @@
+Name:  right_parahippocampal_gyrus
+Label: 2016
+    count: 1902
+    min: 245
+    max: 585
+    median: 1638.38
+    mean: 398.093
+    sigma: 49.204
+    variance: 2421.03
+    sum: 757173
+    region: index(118, 150, 95) size(34, 17, 22)
+    bounding box: (118, 151) (150, 166) (95, 116) 

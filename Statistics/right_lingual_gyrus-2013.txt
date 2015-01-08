@@ -1,0 +1,12 @@
+Name:  right_lingual_gyrus
+Label: 2013
+    count: 7479
+    min: 191
+    max: 545
+    median: 1638.38
+    mean: 397.836
+    sigma: 47.9623
+    variance: 2300.38
+    sum: 2.97542e+06
+    region: index(150, 136, 97) size(62, 34, 30)
+    bounding box: (150, 211) (136, 169) (97, 126) 

@@ -1,0 +1,12 @@
+Name:  right_VIIAf_v
+Label: 339
+    count: 86
+    min: 176
+    max: 547
+    median: 1638.38
+    mean: 414.36
+    sigma: 87.907
+    variance: 7727.65
+    sum: 35635
+    region: index(185, 174, 124) size(8, 6, 4)
+    bounding box: (185, 192) (174, 179) (124, 127) 

@@ -1,0 +1,12 @@
+Name:  right_hippocampus
+Label: 53
+    count: 4189
+    min: 164
+    max: 516
+    median: 1638.38
+    mean: 379.115
+    sigma: 40.0595
+    variance: 1604.77
+    sum: 1.58811e+06
+    region: index(118, 137, 96) size(42, 23, 26)
+    bounding box: (118, 159) (137, 159) (96, 121) 

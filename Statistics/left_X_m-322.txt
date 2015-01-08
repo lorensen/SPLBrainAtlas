@@ -1,0 +1,12 @@
+Name:  left_X_m
+Label: 322
+    count: 406
+    min: 244
+    max: 623
+    median: 1638.38
+    mean: 458.35
+    sigma: 76.3806
+    variance: 5834
+    sum: 186090
+    region: index(143, 168, 146) size(13, 18, 12)
+    bounding box: (143, 155) (168, 185) (146, 157) 

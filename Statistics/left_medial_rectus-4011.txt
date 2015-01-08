@@ -1,0 +1,12 @@
+Name:  left_medial_rectus
+Label: 4011
+    count: 764
+    min: 86
+    max: 22864
+    median: 1638.38
+    mean: 414.634
+    sigma: 886.512
+    variance: 785904
+    sum: 316780
+    region: index(56, 143, 145) size(29, 14, 8)
+    bounding box: (56, 84) (143, 156) (145, 152) 

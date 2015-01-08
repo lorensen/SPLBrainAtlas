@@ -1,0 +1,12 @@
+Name:  right_stylopharyngeus
+Label: 4062
+    count: 178
+    min: 277
+    max: 612
+    median: 1638.38
+    mean: 491.478
+    sigma: 71.7572
+    variance: 5149.1
+    sum: 87483
+    region: index(107, 187, 106) size(12, 8, 10)
+    bounding box: (107, 118) (187, 194) (106, 115) 

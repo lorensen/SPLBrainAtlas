@@ -1,0 +1,12 @@
+Name:  left_VIIB_v
+Label: 307
+    count: 176
+    min: 243
+    max: 548
+    median: 1638.38
+    mean: 419.466
+    sigma: 65.1147
+    variance: 4239.92
+    sum: 73826
+    region: index(176, 173, 128) size(16, 11, 7)
+    bounding box: (176, 191) (173, 183) (128, 134) 

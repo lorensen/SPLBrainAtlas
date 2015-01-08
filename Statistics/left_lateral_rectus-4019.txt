@@ -1,0 +1,12 @@
+Name:  left_lateral_rectus
+Label: 4019
+    count: 1301
+    min: 80
+    max: 859
+    median: 1638.38
+    mean: 409.562
+    sigma: 138.461
+    variance: 19171.3
+    sum: 532840
+    region: index(55, 139, 158) size(33, 21, 22)
+    bounding box: (55, 87) (139, 159) (158, 179) 

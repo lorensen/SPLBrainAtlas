@@ -1,0 +1,12 @@
+Name:  right_visual_cortex
+Label: 2021
+    count: 3197
+    min: 207
+    max: 603
+    median: 1638.38
+    mean: 424.248
+    sigma: 60.3342
+    variance: 3640.21
+    sum: 1.35632e+06
+    region: index(171, 133, 100) size(46, 33, 25)
+    bounding box: (171, 216) (133, 165) (100, 124) 

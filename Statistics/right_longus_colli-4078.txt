@@ -1,0 +1,12 @@
+Name:  right_longus_colli
+Label: 4078
+    count: 1553
+    min: 140
+    max: 728
+    median: 1638.38
+    mean: 519.998
+    sigma: 92.531
+    variance: 8561.98
+    sum: 807557
+    region: index(113, 208, 112) size(9, 39, 20)
+    bounding box: (113, 121) (208, 246) (112, 131) 

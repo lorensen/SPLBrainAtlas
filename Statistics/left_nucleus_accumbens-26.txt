@@ -1,0 +1,12 @@
+Name:  left_nucleus_accumbens
+Label: 26
+    count: 862
+    min: 275
+    max: 522
+    median: 1638.38
+    mean: 403.155
+    sigma: 28.0837
+    variance: 788.694
+    sum: 347520
+    region: index(99, 126, 133) size(14, 15, 15)
+    bounding box: (99, 112) (126, 140) (133, 147) 

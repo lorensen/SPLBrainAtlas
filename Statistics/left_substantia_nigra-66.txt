@@ -1,0 +1,12 @@
+Name:  left_substantia_nigra
+Label: 66
+    count: 301
+    min: 437
+    max: 552
+    median: 1638.38
+    mean: 494.395
+    sigma: 19.4316
+    variance: 377.587
+    sum: 148813
+    region: index(126, 142, 131) size(17, 7, 12)
+    bounding box: (126, 142) (142, 148) (131, 142) 

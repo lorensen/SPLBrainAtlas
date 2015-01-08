@@ -1,0 +1,12 @@
+Name:  right_lateral_occipital_gyrus
+Label: 2011
+    count: 12427
+    min: 171
+    max: 1882
+    median: 1638.38
+    mean: 436.313
+    sigma: 75.2124
+    variance: 5656.9
+    sum: 5.42206e+06
+    region: index(168, 132, 70) size(54, 38, 50)
+    bounding box: (168, 221) (132, 169) (70, 119) 

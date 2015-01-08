@@ -1,0 +1,12 @@
+Name:  left_limen_insulae
+Label: 1035
+    count: 548
+    min: 147
+    max: 490
+    median: 1638.38
+    mean: 369.332
+    sigma: 61.2905
+    variance: 3756.52
+    sum: 202394
+    region: index(110, 143, 148) size(16, 9, 17)
+    bounding box: (110, 125) (143, 151) (148, 164) 

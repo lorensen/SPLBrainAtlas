@@ -1,0 +1,12 @@
+Name:  left_hyoglossus
+Label: 4051
+    count: 679
+    min: 134
+    max: 769
+    median: 1638.38
+    mean: 386.146
+    sigma: 68.9326
+    variance: 4751.7
+    sum: 262193
+    region: index(95, 217, 150) size(10, 31, 10)
+    bounding box: (95, 104) (217, 247) (150, 159) 

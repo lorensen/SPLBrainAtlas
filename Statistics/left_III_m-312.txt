@@ -1,0 +1,12 @@
+Name:  left_III_m
+Label: 312
+    count: 26
+    min: 277
+    max: 485
+    median: 1638.38
+    mean: 412.346
+    sigma: 59.2297
+    variance: 3508.16
+    sum: 10721
+    region: index(155, 165, 139) size(3, 4, 5)
+    bounding box: (155, 157) (165, 168) (139, 143) 

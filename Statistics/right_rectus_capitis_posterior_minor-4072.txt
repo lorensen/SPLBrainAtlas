@@ -1,0 +1,12 @@
+Name:  right_rectus_capitis_posterior_minor
+Label: 4072
+    count: 1334
+    min: 132
+    max: 13943
+    median: 1638.38
+    mean: 469.034
+    sigma: 557.448
+    variance: 310749
+    sum: 625692
+    region: index(165, 205, 104) size(22, 13, 25)
+    bounding box: (165, 186) (205, 217) (104, 128) 

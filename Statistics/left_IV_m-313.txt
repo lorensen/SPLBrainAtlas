@@ -1,0 +1,12 @@
+Name:  left_IV_m
+Label: 313
+    count: 260
+    min: 158
+    max: 574
+    median: 1638.38
+    mean: 405.512
+    sigma: 67.3344
+    variance: 4533.93
+    sum: 105433
+    region: index(146, 159, 143) size(16, 9, 5)
+    bounding box: (146, 161) (159, 167) (143, 147) 

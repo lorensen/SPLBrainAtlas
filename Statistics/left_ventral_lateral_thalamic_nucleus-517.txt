@@ -1,0 +1,12 @@
+Name:  left_ventral_lateral_thalamic_nucleus
+Label: 517
+    count: 938
+    min: 393
+    max: 524
+    median: 1638.38
+    mean: 462.057
+    sigma: 22.9712
+    variance: 527.676
+    sum: 433409
+    region: index(124, 117, 133) size(14, 22, 11)
+    bounding box: (124, 137) (117, 138) (133, 143) 

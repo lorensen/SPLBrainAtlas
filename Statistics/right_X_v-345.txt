@@ -1,0 +1,12 @@
+Name:  right_X_v
+Label: 345
+    count: 79
+    min: 255
+    max: 548
+    median: 1638.38
+    mean: 418.506
+    sigma: 71.0873
+    variance: 5053.41
+    sum: 33062
+    region: index(164, 171, 125) size(9, 11, 3)
+    bounding box: (164, 172) (171, 181) (125, 127) 

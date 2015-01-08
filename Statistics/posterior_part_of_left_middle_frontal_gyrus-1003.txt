@@ -1,0 +1,12 @@
+Name:  posterior_part_of_left_middle_frontal_gyrus
+Label: 1003
+    count: 6912
+    min: 110
+    max: 609
+    median: 1638.38
+    mean: 403.465
+    sigma: 78.2154
+    variance: 6117.64
+    sum: 2.78875e+06
+    region: index(95, 70, 144) size(44, 31, 29)
+    bounding box: (95, 138) (70, 100) (144, 172) 

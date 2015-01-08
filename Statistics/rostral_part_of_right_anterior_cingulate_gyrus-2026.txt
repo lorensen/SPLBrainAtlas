@@ -1,0 +1,12 @@
+Name:  rostral_part_of_right_anterior_cingulate_gyrus
+Label: 2026
+    count: 1983
+    min: 119
+    max: 514
+    median: 1638.38
+    mean: 343.271
+    sigma: 54.6944
+    variance: 2991.48
+    sum: 680706
+    region: index(72, 100, 118) size(25, 31, 15)
+    bounding box: (72, 96) (100, 130) (118, 132) 

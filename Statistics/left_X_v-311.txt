@@ -1,0 +1,12 @@
+Name:  left_X_v
+Label: 311
+    count: 251
+    min: 209
+    max: 555
+    median: 1638.38
+    mean: 443.693
+    sigma: 60.4772
+    variance: 3657.49
+    sum: 111367
+    region: index(164, 170, 128) size(8, 15, 7)
+    bounding box: (164, 171) (170, 184) (128, 134) 

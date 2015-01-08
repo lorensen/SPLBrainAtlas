@@ -1,0 +1,12 @@
+Name:  left_Dentate_nucleus
+Label: 371
+    count: 898
+    min: 424
+    max: 590
+    median: 1638.38
+    mean: 529.546
+    sigma: 21.2444
+    variance: 451.323
+    sum: 475532
+    region: index(161, 169, 135) size(22, 14, 21)
+    bounding box: (161, 182) (169, 182) (135, 155) 

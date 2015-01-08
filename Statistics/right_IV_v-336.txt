@@ -1,0 +1,12 @@
+Name:  right_IV_v
+Label: 336
+    count: 845
+    min: 148
+    max: 528
+    median: 1638.38
+    mean: 376.827
+    sigma: 69.9278
+    variance: 4889.9
+    sum: 318419
+    region: index(160, 148, 120) size(20, 17, 8)
+    bounding box: (160, 179) (148, 164) (120, 127) 

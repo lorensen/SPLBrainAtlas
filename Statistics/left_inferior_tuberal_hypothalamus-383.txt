@@ -1,0 +1,12 @@
+Name:  left_inferior_tuberal_hypothalamus
+Label: 383
+    count: 183
+    min: 157
+    max: 495
+    median: 1638.38
+    mean: 376.874
+    sigma: 73.3823
+    variance: 5384.97
+    sum: 68968
+    region: index(114, 137, 130) size(9, 8, 8)
+    bounding box: (114, 122) (137, 144) (130, 137) 

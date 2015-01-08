@@ -1,0 +1,12 @@
+Name:  left_superior_temporal_gyrus_(banks_of_left_superior_temporal_sulcus)
+Label: 1001
+    count: 2675
+    min: 181
+    max: 598
+    median: 1638.38
+    mean: 406.751
+    sigma: 58.1653
+    variance: 3383.21
+    sum: 1.08806e+06
+    region: index(158, 123, 165) size(28, 21, 22)
+    bounding box: (158, 185) (123, 143) (165, 186) 

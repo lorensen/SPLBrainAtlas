@@ -1,0 +1,12 @@
+Name:  right_V_m
+Label: 348
+    count: 1962
+    min: 158
+    max: 527
+    median: 1638.38
+    mean: 405.619
+    sigma: 54.6833
+    variance: 2990.27
+    sum: 795824
+    region: index(153, 152, 111) size(31, 22, 9)
+    bounding box: (153, 183) (152, 173) (111, 119) 

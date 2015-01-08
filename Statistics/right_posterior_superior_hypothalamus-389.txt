@@ -1,0 +1,12 @@
+Name:  right_posterior_superior_hypothalamus
+Label: 389
+    count: 37
+    min: 353
+    max: 472
+    median: 1638.38
+    mean: 429.649
+    sigma: 31.8357
+    variance: 1013.51
+    sum: 15897
+    region: index(121, 135, 124) size(7, 10, 6)
+    bounding box: (121, 127) (135, 144) (124, 129) 

@@ -1,0 +1,12 @@
+Name:  opercular_part_of_right_inferior_frontal_gyrus
+Label: 2018
+    count: 3805
+    min: 132
+    max: 594
+    median: 1638.38
+    mean: 385.817
+    sigma: 64.1117
+    variance: 4110.32
+    sum: 1.46803e+06
+    region: index(83, 101, 72) size(33, 32, 29)
+    bounding box: (83, 115) (101, 132) (72, 100) 

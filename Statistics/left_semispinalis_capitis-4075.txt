@@ -1,0 +1,12 @@
+Name:  left_semispinalis_capitis
+Label: 4075
+    count: 21124
+    min: 49
+    max: 22972
+    median: 1638.38
+    mean: 430.27
+    sigma: 342.796
+    variance: 117509
+    sum: 9.08901e+06
+    region: index(145, 198, 131) size(64, 50, 42)
+    bounding box: (145, 208) (198, 247) (131, 172) 

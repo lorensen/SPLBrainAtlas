@@ -1,0 +1,12 @@
+Name:  right_semispinalis_capitis
+Label: 4076
+    count: 23776
+    min: 41
+    max: 23008
+    median: 1638.38
+    mean: 422.3
+    sigma: 328.705
+    variance: 108047
+    sum: 1.00406e+07
+    region: index(145, 198, 84) size(61, 50, 50)
+    bounding box: (145, 205) (198, 247) (84, 133) 

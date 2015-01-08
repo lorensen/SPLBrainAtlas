@@ -1,0 +1,12 @@
+Name:  isthmus_of_left_cingulate_gyrus
+Label: 1010
+    count: 2219
+    min: 161
+    max: 510
+    median: 1638.38
+    mean: 376.644
+    sigma: 43.6006
+    variance: 1901.01
+    sum: 835772
+    region: index(152, 106, 123) size(26, 39, 20)
+    bounding box: (152, 177) (106, 144) (123, 142) 

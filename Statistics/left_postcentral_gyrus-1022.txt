@@ -1,0 +1,12 @@
+Name:  left_postcentral_gyrus
+Label: 1022
+    count: 12378
+    min: 130
+    max: 751
+    median: 1638.38
+    mean: 437.403
+    sigma: 95.0609
+    variance: 9036.58
+    sum: 5.41418e+06
+    region: index(125, 71, 124) size(62, 57, 65)
+    bounding box: (125, 186) (71, 127) (124, 188) 

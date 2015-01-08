@@ -1,0 +1,12 @@
+Name:  white_matter_of_right_cerebral_hemisphere
+Label: 41
+    count: 235868
+    min: 137
+    max: 772
+    median: 1638.38
+    mean: 506.99
+    sigma: 57.8214
+    variance: 3343.32
+    sum: 1.19583e+08
+    region: index(49, 69, 64) size(171, 107, 66)
+    bounding box: (49, 219) (69, 175) (64, 129) 

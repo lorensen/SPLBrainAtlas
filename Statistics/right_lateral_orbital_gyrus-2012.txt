@@ -1,0 +1,12 @@
+Name:  right_lateral_orbital_gyrus
+Label: 2012
+    count: 8611
+    min: 119
+    max: 605
+    median: 1638.38
+    mean: 356.581
+    sigma: 59.7781
+    variance: 3573.42
+    sum: 3.07052e+06
+    region: index(51, 118, 87) size(55, 31, 44)
+    bounding box: (51, 105) (118, 148) (87, 130) 

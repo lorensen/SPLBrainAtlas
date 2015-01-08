@@ -1,0 +1,12 @@
+Name:  right_ambiens_gyrus
+Label: 2006
+    count: 2780
+    min: 194
+    max: 613
+    median: 1638.38
+    mean: 400.776
+    sigma: 40.8311
+    variance: 1667.18
+    sum: 1.11416e+06
+    region: index(92, 153, 96) size(36, 18, 23)
+    bounding box: (92, 127) (153, 170) (96, 118) 

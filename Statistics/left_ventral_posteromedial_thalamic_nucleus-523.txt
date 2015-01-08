@@ -1,0 +1,12 @@
+Name:  left_ventral_posteromedial_thalamic_nucleus
+Label: 523
+    count: 207
+    min: 402
+    max: 501
+    median: 1638.38
+    mean: 450.222
+    sigma: 20.1214
+    variance: 404.873
+    sum: 93196
+    region: index(137, 131, 134) size(10, 10, 8)
+    bounding box: (137, 146) (131, 140) (134, 141) 

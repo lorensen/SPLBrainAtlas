@@ -1,0 +1,12 @@
+Name:  left_VIIIA_l
+Label: 330
+    count: 2731
+    min: 119
+    max: 618
+    median: 1638.38
+    mean: 440.388
+    sigma: 77.918
+    variance: 6071.22
+    sum: 1.2027e+06
+    region: index(151, 181, 147) size(41, 23, 32)
+    bounding box: (151, 191) (181, 203) (147, 178) 

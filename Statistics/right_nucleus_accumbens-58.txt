@@ -1,0 +1,12 @@
+Name:  right_nucleus_accumbens
+Label: 58
+    count: 808
+    min: 334
+    max: 507
+    median: 1638.38
+    mean: 391.298
+    sigma: 26.9347
+    variance: 725.478
+    sum: 316169
+    region: index(95, 126, 112) size(16, 13, 14)
+    bounding box: (95, 110) (126, 138) (112, 125) 

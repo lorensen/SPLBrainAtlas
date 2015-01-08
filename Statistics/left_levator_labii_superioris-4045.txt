@@ -1,0 +1,12 @@
+Name:  left_levator_labii_superioris
+Label: 4045
+    count: 449
+    min: 74
+    max: 899
+    median: 1638.38
+    mean: 327.225
+    sigma: 124.74
+    variance: 15560.1
+    sum: 146924
+    region: index(34, 172, 143) size(15, 18, 16)
+    bounding box: (34, 48) (172, 189) (143, 158) 

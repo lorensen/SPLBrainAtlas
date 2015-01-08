@@ -1,0 +1,12 @@
+Name:  left_superior_frontal_gyrus
+Label: 1028
+    count: 24162
+    min: 84
+    max: 7789
+    median: 1638.38
+    mean: 399.393
+    sigma: 94.6408
+    variance: 8956.88
+    sum: 9.65013e+06
+    region: index(50, 62, 124) size(106, 55, 32)
+    bounding box: (50, 155) (62, 116) (124, 155) 

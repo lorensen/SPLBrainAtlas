@@ -1,0 +1,12 @@
+Name:  left_globus_pallidus_pars_externa
+Label: 13
+    count: 1382
+    min: 338
+    max: 533
+    median: 1638.38
+    mean: 465.902
+    sigma: 22.0498
+    variance: 486.192
+    sum: 643876
+    region: index(109, 123, 140) size(32, 17, 15)
+    bounding box: (109, 140) (123, 139) (140, 154) 

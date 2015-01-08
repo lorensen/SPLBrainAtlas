@@ -1,0 +1,12 @@
+Name:  left_posterior_superior_hypothalamus
+Label: 384
+    count: 92
+    min: 217
+    max: 517
+    median: 1638.38
+    mean: 424.043
+    sigma: 55.6269
+    variance: 3094.35
+    sum: 39012
+    region: index(122, 136, 129) size(9, 7, 7)
+    bounding box: (122, 130) (136, 142) (129, 135) 

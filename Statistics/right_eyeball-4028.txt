@@ -1,0 +1,12 @@
+Name:  right_eyeball
+Label: 4028
+    count: 7342
+    min: 14
+    max: 22834
+    median: 1638.38
+    mean: 190.299
+    sigma: 663.147
+    variance: 439764
+    sum: 1.39717e+06
+    region: index(44, 138, 88) size(25, 26, 24)
+    bounding box: (44, 68) (138, 163) (88, 111) 

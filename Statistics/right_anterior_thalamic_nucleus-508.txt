@@ -1,0 +1,12 @@
+Name:  right_anterior_thalamic_nucleus
+Label: 508
+    count: 212
+    min: 263
+    max: 489
+    median: 1638.38
+    mean: 433.41
+    sigma: 29.8253
+    variance: 889.551
+    sum: 91883
+    region: index(119, 117, 117) size(11, 13, 11)
+    bounding box: (119, 129) (117, 129) (117, 127) 

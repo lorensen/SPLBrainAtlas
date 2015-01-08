@@ -1,0 +1,12 @@
+Name:  left_lingual_gyrus
+Label: 1013
+    count: 8418
+    min: 164
+    max: 531
+    median: 1638.38
+    mean: 383.129
+    sigma: 50.8312
+    variance: 2583.81
+    sum: 3.22518e+06
+    region: index(157, 137, 120) size(55, 36, 36)
+    bounding box: (157, 211) (137, 172) (120, 155) 

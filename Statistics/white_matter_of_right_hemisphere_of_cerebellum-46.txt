@@ -1,0 +1,12 @@
+Name:  white_matter_of_right_hemisphere_of_cerebellum
+Label: 46
+    count: 13539
+    min: 148
+    max: 643
+    median: 1638.38
+    mean: 522.095
+    sigma: 46.2604
+    variance: 2140.03
+    sum: 7.06865e+06
+    region: index(143, 159, 84) size(57, 40, 44)
+    bounding box: (143, 199) (159, 198) (84, 127) 

@@ -1,0 +1,12 @@
+Name:  right_levator_labii_superioris
+Label: 4046
+    count: 423
+    min: 96
+    max: 876
+    median: 1638.38
+    mean: 441.378
+    sigma: 133.386
+    variance: 17791.8
+    sum: 186703
+    region: index(33, 172, 105) size(16, 18, 18)
+    bounding box: (33, 48) (172, 189) (105, 122) 

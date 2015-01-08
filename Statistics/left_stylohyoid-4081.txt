@@ -1,0 +1,12 @@
+Name:  left_stylohyoid
+Label: 4081
+    count: 45
+    min: 264
+    max: 918
+    median: 1638.38
+    mean: 517.489
+    sigma: 163.887
+    variance: 26859.1
+    sum: 23287
+    region: index(120, 189, 157) size(6, 5, 7)
+    bounding box: (120, 125) (189, 193) (157, 163) 

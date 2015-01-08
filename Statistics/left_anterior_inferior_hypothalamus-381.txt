@@ -1,0 +1,12 @@
+Name:  left_anterior_inferior_hypothalamus
+Label: 381
+    count: 31
+    min: 238
+    max: 458
+    median: 1638.38
+    mean: 373.871
+    sigma: 76.5009
+    variance: 5852.38
+    sum: 11590
+    region: index(113, 137, 129) size(2, 3, 7)
+    bounding box: (113, 114) (137, 139) (129, 135) 

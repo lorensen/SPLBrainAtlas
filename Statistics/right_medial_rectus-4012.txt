@@ -1,0 +1,12 @@
+Name:  right_medial_rectus
+Label: 4012
+    count: 728
+    min: 94
+    max: 9299
+    median: 1638.38
+    mean: 392.218
+    sigma: 354.075
+    variance: 125369
+    sum: 285535
+    region: index(56, 147, 111) size(29, 11, 8)
+    bounding box: (56, 84) (147, 157) (111, 118) 

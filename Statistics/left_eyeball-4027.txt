@@ -1,0 +1,12 @@
+Name:  left_eyeball
+Label: 4027
+    count: 7026
+    min: 22
+    max: 27360
+    median: 1638.38
+    mean: 166.899
+    sigma: 534.65
+    variance: 285851
+    sum: 1.17263e+06
+    region: index(48, 135, 152) size(24, 25, 24)
+    bounding box: (48, 71) (135, 159) (152, 175) 

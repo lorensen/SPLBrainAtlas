@@ -1,0 +1,12 @@
+Name:  right_dorsomedial_thalamic_nucleus
+Label: 510
+    count: 883
+    min: 340
+    max: 481
+    median: 1638.38
+    mean: 415.058
+    sigma: 20.0997
+    variance: 403.998
+    sum: 366496
+    region: index(124, 118, 119) size(16, 19, 10)
+    bounding box: (124, 139) (118, 136) (119, 128) 

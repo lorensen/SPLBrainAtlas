@@ -1,0 +1,12 @@
+Name:  left_supramarginal_gyrus
+Label: 1031
+    count: 13683
+    min: 143
+    max: 22887
+    median: 1638.38
+    mean: 443.746
+    sigma: 209.572
+    variance: 43920.4
+    sum: 6.07178e+06
+    region: index(144, 91, 150) size(54, 38, 38)
+    bounding box: (144, 197) (91, 128) (150, 187) 

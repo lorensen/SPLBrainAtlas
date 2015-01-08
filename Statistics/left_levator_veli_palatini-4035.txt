@@ -1,0 +1,12 @@
+Name:  left_levator_veli_palatini
+Label: 4035
+    count: 400
+    min: 174
+    max: 13832
+    median: 1638.38
+    mean: 645.475
+    sigma: 731.173
+    variance: 534614
+    sum: 258190
+    region: index(93, 198, 134) size(7, 26, 10)
+    bounding box: (93, 99) (198, 223) (134, 143) 

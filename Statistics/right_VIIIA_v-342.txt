@@ -1,0 +1,12 @@
+Name:  right_VIIIA_v
+Label: 342
+    count: 450
+    min: 194
+    max: 583
+    median: 1638.38
+    mean: 442.344
+    sigma: 76.0888
+    variance: 5789.5
+    sum: 199055
+    region: index(175, 174, 120) size(14, 16, 8)
+    bounding box: (175, 188) (174, 189) (120, 127) 

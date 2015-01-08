@@ -1,0 +1,12 @@
+Name:  left_ventral_posterolateral_thalamic_nucleus
+Label: 525
+    count: 1061
+    min: 390
+    max: 514
+    median: 1638.38
+    mean: 459.274
+    sigma: 18.8858
+    variance: 356.673
+    sum: 487290
+    region: index(136, 127, 137) size(16, 15, 14)
+    bounding box: (136, 151) (127, 141) (137, 150) 

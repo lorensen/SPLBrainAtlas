@@ -1,0 +1,12 @@
+Name:  right_medial_pterygoid
+Label: 4008
+    count: 8444
+    min: 67
+    max: 38036
+    median: 1638.38
+    mean: 492.672
+    sigma: 556.914
+    variance: 310153
+    sum: 4.16012e+06
+    region: index(87, 203, 87) size(27, 44, 30)
+    bounding box: (87, 113) (203, 246) (87, 116) 

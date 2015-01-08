@@ -1,0 +1,12 @@
+Name:  left_VIIAf_v
+Label: 305
+    count: 86
+    min: 331
+    max: 547
+    median: 1638.38
+    mean: 437.919
+    sigma: 46.0151
+    variance: 2117.39
+    sum: 37661
+    region: index(185, 174, 128) size(8, 5, 6)
+    bounding box: (185, 192) (174, 178) (128, 133) 

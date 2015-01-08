@@ -1,0 +1,12 @@
+Name:  left_VIIA_crusII_l2
+Label: 333
+    count: 453
+    min: 244
+    max: 556
+    median: 1638.38
+    mean: 427.731
+    sigma: 64.1237
+    variance: 4111.85
+    sum: 193762
+    region: index(158, 180, 165) size(33, 13, 7)
+    bounding box: (158, 190) (180, 192) (165, 171) 

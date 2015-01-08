@@ -1,0 +1,12 @@
+Name:  left_temporal_pole
+Label: 1033
+    count: 3245
+    min: 131
+    max: 594
+    median: 1638.38
+    mean: 363.369
+    sigma: 65.7368
+    variance: 4321.33
+    sum: 1.17913e+06
+    region: index(91, 144, 150) size(25, 25, 28)
+    bounding box: (91, 115) (144, 168) (150, 177) 

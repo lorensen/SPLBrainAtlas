@@ -1,0 +1,12 @@
+Name:  left_inferior_temporal_gyrus
+Label: 1009
+    count: 10430
+    min: 193
+    max: 575
+    median: 1638.38
+    mean: 384.356
+    sigma: 52.9393
+    variance: 2802.57
+    sum: 4.00883e+06
+    region: index(104, 143, 159) size(94, 32, 29)
+    bounding box: (104, 197) (143, 174) (159, 187) 

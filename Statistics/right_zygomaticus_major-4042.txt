@@ -1,0 +1,12 @@
+Name:  right_zygomaticus_major
+Label: 4042
+    count: 1437
+    min: 26
+    max: 22887
+    median: 1638.38
+    mean: 255.738
+    sigma: 640.278
+    variance: 409955
+    sum: 367495
+    region: index(43, 183, 76) size(29, 33, 27)
+    bounding box: (43, 71) (183, 215) (76, 102) 

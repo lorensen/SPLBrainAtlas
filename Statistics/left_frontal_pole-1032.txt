@@ -1,0 +1,12 @@
+Name:  left_frontal_pole
+Label: 1032
+    count: 994
+    min: 104
+    max: 532
+    median: 1638.38
+    mean: 339.136
+    sigma: 70.8963
+    variance: 5026.29
+    sum: 337101
+    region: index(48, 113, 133) size(12, 21, 17)
+    bounding box: (48, 59) (113, 133) (133, 149) 

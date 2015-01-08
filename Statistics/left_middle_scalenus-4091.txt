@@ -1,0 +1,12 @@
+Name:  left_middle_scalenus
+Label: 4091
+    count: 4293
+    min: 148
+    max: 662
+    median: 1638.38
+    mean: 396.563
+    sigma: 68.9609
+    variance: 4755.61
+    sum: 1.70245e+06
+    region: index(122, 225, 158) size(46, 23, 18)
+    bounding box: (122, 167) (225, 247) (158, 175) 

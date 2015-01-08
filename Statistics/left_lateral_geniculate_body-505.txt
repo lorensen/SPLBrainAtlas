@@ -1,0 +1,12 @@
+Name:  left_lateral_geniculate_body
+Label: 505
+    count: 244
+    min: 406
+    max: 525
+    median: 1638.38
+    mean: 460.861
+    sigma: 24.6135
+    variance: 605.824
+    sum: 112450
+    region: index(141, 137, 138) size(11, 7, 13)
+    bounding box: (141, 151) (137, 143) (138, 150) 

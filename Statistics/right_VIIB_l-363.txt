@@ -1,0 +1,12 @@
+Name:  right_VIIB_l
+Label: 363
+    count: 1370
+    min: 144
+    max: 606
+    median: 1638.38
+    mean: 452.914
+    sigma: 71.7379
+    variance: 5146.32
+    sum: 620492
+    region: index(156, 189, 84) size(36, 14, 27)
+    bounding box: (156, 191) (189, 202) (84, 110) 

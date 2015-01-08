@@ -1,0 +1,12 @@
+Name:  left_claustrum
+Label: 3001
+    count: 2798
+    min: 291
+    max: 522
+    median: 1638.38
+    mean: 443.885
+    sigma: 33.0702
+    variance: 1093.64
+    sum: 1.24199e+06
+    region: index(95, 115, 150) size(47, 27, 14)
+    bounding box: (95, 141) (115, 141) (150, 163) 

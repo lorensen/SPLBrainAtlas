@@ -1,0 +1,12 @@
+Name:  right_subthalamic_nucleus
+Label: 390
+    count: 33
+    min: 478
+    max: 528
+    median: 1638.38
+    mean: 496.03
+    sigma: 12.4612
+    variance: 155.28
+    sum: 16369
+    region: index(126, 138, 119) size(4, 5, 6)
+    bounding box: (126, 129) (138, 142) (119, 124) 

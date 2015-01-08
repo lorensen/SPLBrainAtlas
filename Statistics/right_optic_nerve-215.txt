@@ -1,0 +1,12 @@
+Name:  right_optic_nerve
+Label: 215
+    count: 494
+    min: 48
+    max: 37986
+    median: 1638.38
+    mean: 456.654
+    sigma: 2128.05
+    variance: 4.52858e+06
+    sum: 225587
+    region: index(68, 146, 102) size(37, 9, 25)
+    bounding box: (68, 104) (146, 154) (102, 126) 

@@ -1,0 +1,12 @@
+Name:  left_mammillary_body
+Label: 3003
+    count: 64
+    min: 352
+    max: 528
+    median: 1638.38
+    mean: 459.234
+    sigma: 37.2945
+    variance: 1390.88
+    sum: 29391
+    region: index(121, 142, 130) size(5, 5, 4)
+    bounding box: (121, 125) (142, 146) (130, 133) 

@@ -1,0 +1,12 @@
+Name:  right_sternocleidomastoid
+Label: 4090
+    count: 5773
+    min: 178
+    max: 37998
+    median: 1638.38
+    mean: 423.45
+    sigma: 499.008
+    variance: 249009
+    sum: 2.44458e+06
+    region: index(121, 219, 70) size(58, 29, 23)
+    bounding box: (121, 178) (219, 247) (70, 92) 

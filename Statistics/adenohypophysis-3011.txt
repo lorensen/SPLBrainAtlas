@@ -1,0 +1,12 @@
+Name:  adenohypophysis
+Label: 3011
+    count: 205
+    min: 175
+    max: 635
+    median: 1638.38
+    mean: 434.239
+    sigma: 98.4088
+    variance: 9684.29
+    sum: 89019
+    region: index(107, 154, 125) size(6, 6, 13)
+    bounding box: (107, 112) (154, 159) (125, 137) 

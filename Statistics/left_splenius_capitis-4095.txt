@@ -1,0 +1,12 @@
+Name:  left_splenius_capitis
+Label: 4095
+    count: 13353
+    min: 80
+    max: 13838
+    median: 1638.38
+    mean: 455.525
+    sigma: 140.812
+    variance: 19828
+    sum: 6.08262e+06
+    region: index(136, 194, 135) size(60, 54, 61)
+    bounding box: (136, 195) (194, 247) (135, 195) 

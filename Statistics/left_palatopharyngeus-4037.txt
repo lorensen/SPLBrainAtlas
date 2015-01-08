@@ -1,0 +1,12 @@
+Name:  left_palatopharyngeus
+Label: 4037
+    count: 452
+    min: 276
+    max: 696
+    median: 1638.38
+    mean: 484.062
+    sigma: 68.1452
+    variance: 4643.77
+    sum: 218796
+    region: index(91, 210, 138) size(10, 22, 19)
+    bounding box: (91, 100) (210, 231) (138, 156) 

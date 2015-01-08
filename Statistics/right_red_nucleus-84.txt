@@ -1,0 +1,12 @@
+Name:  right_red_nucleus
+Label: 84
+    count: 139
+    min: 463
+    max: 536
+    median: 1638.38
+    mean: 505.993
+    sigma: 13.9572
+    variance: 194.804
+    sum: 70333
+    region: index(129, 140, 120) size(8, 5, 7)
+    bounding box: (129, 136) (140, 144) (120, 126) 

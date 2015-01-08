@@ -1,0 +1,12 @@
+Name:  right_paracentral_lobule
+Label: 2017
+    count: 4533
+    min: 234
+    max: 736
+    median: 1638.38
+    mean: 473.239
+    sigma: 71.8517
+    variance: 5162.67
+    sum: 2.14519e+06
+    region: index(135, 68, 105) size(42, 42, 21)
+    bounding box: (135, 176) (68, 109) (105, 125) 

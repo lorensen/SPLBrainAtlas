@@ -1,0 +1,12 @@
+Name:  left_trapezius
+Label: 4085
+    count: 2106
+    min: 140
+    max: 590
+    median: 1638.38
+    mean: 413.811
+    sigma: 75.2559
+    variance: 5663.44
+    sum: 871486
+    region: index(173, 219, 135) size(25, 29, 27)
+    bounding box: (173, 197) (219, 247) (135, 161) 

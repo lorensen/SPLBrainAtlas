@@ -1,0 +1,12 @@
+Name:  left_visual_cortex
+Label: 1021
+    count: 1869
+    min: 170
+    max: 556
+    median: 1638.38
+    mean: 410.937
+    sigma: 60.9036
+    variance: 3709.25
+    sum: 768042
+    region: index(188, 136, 121) size(31, 28, 29)
+    bounding box: (188, 218) (136, 163) (121, 149) 

@@ -1,0 +1,12 @@
+Name:  right_superior_oblique_capitis
+Label: 4080
+    count: 2821
+    min: 70
+    max: 1138
+    median: 1638.38
+    mean: 401.204
+    sigma: 98.3362
+    variance: 9670
+    sum: 1.1318e+06
+    region: index(125, 210, 85) size(54, 13, 20)
+    bounding box: (125, 178) (210, 222) (85, 104) 

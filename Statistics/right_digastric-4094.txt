@@ -1,0 +1,12 @@
+Name:  right_digastric
+Label: 4094
+    count: 3564
+    min: 118
+    max: 938
+    median: 1638.38
+    mean: 459.973
+    sigma: 71.7744
+    variance: 5151.57
+    sum: 1.63934e+06
+    region: index(97, 219, 83) size(50, 29, 27)
+    bounding box: (97, 146) (219, 247) (83, 109) 

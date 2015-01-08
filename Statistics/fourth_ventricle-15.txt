@@ -1,0 +1,12 @@
+Name:  fourth_ventricle
+Label: 15
+    count: 5578
+    min: 117
+    max: 651
+    median: 1638.38
+    mean: 235.405
+    sigma: 93.9545
+    variance: 8827.44
+    sum: 1.31309e+06
+    region: index(149, 156, 116) size(25, 47, 30)
+    bounding box: (149, 173) (156, 202) (116, 145) 

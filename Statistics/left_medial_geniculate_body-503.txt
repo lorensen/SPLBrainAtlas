@@ -1,0 +1,12 @@
+Name:  left_medial_geniculate_body
+Label: 503
+    count: 151
+    min: 387
+    max: 496
+    median: 1638.38
+    mean: 444.781
+    sigma: 26.2023
+    variance: 686.559
+    sum: 67162
+    region: index(142, 138, 134) size(9, 6, 10)
+    bounding box: (142, 150) (138, 143) (134, 143) 

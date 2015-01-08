@@ -1,0 +1,12 @@
+Name:  right_substantia_nigra
+Label: 71
+    count: 284
+    min: 437
+    max: 564
+    median: 1638.38
+    mean: 489.754
+    sigma: 20.6188
+    variance: 425.133
+    sum: 139090
+    region: index(124, 142, 115) size(17, 7, 10)
+    bounding box: (124, 140) (142, 148) (115, 124) 

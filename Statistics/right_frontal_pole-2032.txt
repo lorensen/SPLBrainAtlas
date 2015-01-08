@@ -1,0 +1,12 @@
+Name:  right_frontal_pole
+Label: 2032
+    count: 815
+    min: 131
+    max: 564
+    median: 1638.38
+    mean: 364.079
+    sigma: 74.427
+    variance: 5539.37
+    sum: 296724
+    region: index(46, 113, 119) size(12, 19, 13)
+    bounding box: (46, 57) (113, 131) (119, 131) 

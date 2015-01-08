@@ -1,0 +1,12 @@
+Name:  left_digastric
+Label: 4093
+    count: 3602
+    min: 126
+    max: 955
+    median: 1638.38
+    mean: 451.363
+    sigma: 92.3876
+    variance: 8535.46
+    sum: 1.62581e+06
+    region: index(97, 219, 158) size(48, 29, 24)
+    bounding box: (97, 144) (219, 247) (158, 181) 

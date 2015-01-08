@@ -1,0 +1,12 @@
+Name:  left_anterior_superior_hypothalamus
+Label: 380
+    count: 38
+    min: 321
+    max: 521
+    median: 1638.38
+    mean: 436.579
+    sigma: 41.0521
+    variance: 1685.28
+    sum: 16590
+    region: index(111, 133, 130) size(5, 4, 6)
+    bounding box: (111, 115) (133, 136) (130, 135) 

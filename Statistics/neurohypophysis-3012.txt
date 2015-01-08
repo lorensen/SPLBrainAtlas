@@ -1,0 +1,12 @@
+Name:  neurohypophysis
+Label: 3012
+    count: 165
+    min: 120
+    max: 1423
+    median: 1638.38
+    mean: 529.455
+    sigma: 156.218
+    variance: 24404
+    sum: 87360
+    region: index(110, 154, 125) size(7, 6, 13)
+    bounding box: (110, 116) (154, 159) (125, 137) 

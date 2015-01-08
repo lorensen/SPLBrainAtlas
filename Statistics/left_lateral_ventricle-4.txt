@@ -1,0 +1,12 @@
+Name:  left_lateral_ventricle
+Label: 4
+    count: 10140
+    min: 78
+    max: 532
+    median: 1638.38
+    mean: 215.513
+    sigma: 104.406
+    variance: 10900.5
+    sum: 2.1853e+06
+    region: index(90, 106, 129) size(94, 41, 32)
+    bounding box: (90, 183) (106, 146) (129, 160) 

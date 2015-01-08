@@ -1,0 +1,12 @@
+Name:  right_superior_rectus
+Label: 4014
+    count: 804
+    min: 80
+    max: 22906
+    median: 1638.38
+    mean: 380.256
+    sigma: 1112.38
+    variance: 1.23739e+06
+    sum: 305726
+    region: index(52, 135, 94) size(32, 13, 19)
+    bounding box: (52, 83) (135, 147) (94, 112) 

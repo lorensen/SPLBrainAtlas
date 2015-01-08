@@ -1,0 +1,12 @@
+Name:  left_fusiform_gyrus
+Label: 1007
+    count: 10021
+    min: 183
+    max: 568
+    median: 1638.38
+    mean: 375.23
+    sigma: 45.4805
+    variance: 2068.48
+    sum: 3.76018e+06
+    region: index(103, 144, 142) size(96, 30, 32)
+    bounding box: (103, 198) (144, 173) (142, 173) 

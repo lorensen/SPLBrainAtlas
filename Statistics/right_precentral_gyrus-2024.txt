@@ -1,0 +1,12 @@
+Name:  right_precentral_gyrus
+Label: 2024
+    count: 15323
+    min: 94
+    max: 8409
+    median: 1638.38
+    mean: 439.39
+    sigma: 105.133
+    variance: 11052.9
+    sum: 6.73278e+06
+    region: index(101, 67, 67) size(64, 65, 53)
+    bounding box: (101, 164) (67, 131) (67, 119) 

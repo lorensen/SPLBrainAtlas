@@ -1,0 +1,12 @@
+Name:  left_temporalis
+Label: 4001
+    count: 40013
+    min: 26
+    max: 37976
+    median: 1638.38
+    mean: 417.167
+    sigma: 620.15
+    variance: 384586
+    sum: 1.66921e+07
+    region: index(62, 103, 162) size(101, 104, 38)
+    bounding box: (62, 162) (103, 206) (162, 199) 

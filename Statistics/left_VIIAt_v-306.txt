@@ -1,0 +1,12 @@
+Name:  left_VIIAt_v
+Label: 306
+    count: 20
+    min: 373
+    max: 508
+    median: 1638.38
+    mean: 456.55
+    sigma: 34.4177
+    variance: 1184.58
+    sum: 9131
+    region: index(189, 178, 128) size(4, 3, 4)
+    bounding box: (189, 192) (178, 180) (128, 131) 

@@ -1,0 +1,12 @@
+Name:  left_lateral_posterior_thalamic_nucleus
+Label: 519
+    count: 981
+    min: 315
+    max: 494
+    median: 1638.38
+    mean: 436.977
+    sigma: 18.5584
+    variance: 344.413
+    sum: 428674
+    region: index(133, 116, 135) size(17, 13, 13)
+    bounding box: (133, 149) (116, 128) (135, 147) 

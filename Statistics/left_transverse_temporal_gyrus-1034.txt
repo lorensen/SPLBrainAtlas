@@ -1,0 +1,12 @@
+Name:  left_transverse_temporal_gyrus
+Label: 1034
+    count: 1364
+    min: 117
+    max: 477
+    median: 1638.38
+    mean: 347.788
+    sigma: 58.0592
+    variance: 3370.87
+    sum: 474383
+    region: index(135, 119, 153) size(26, 16, 21)
+    bounding box: (135, 160) (119, 134) (153, 173) 

@@ -1,0 +1,12 @@
+Name:  left_anterior_thalamic_nucleus
+Label: 509
+    count: 182
+    min: 150
+    max: 504
+    median: 1638.38
+    mean: 395.082
+    sigma: 63.5877
+    variance: 4043.39
+    sum: 71905
+    region: index(119, 118, 129) size(11, 12, 7)
+    bounding box: (119, 129) (118, 129) (129, 135) 

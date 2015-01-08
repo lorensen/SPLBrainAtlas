@@ -1,0 +1,12 @@
+Name:  left_fornix_of_forebrain
+Label: 3007
+    count: 787
+    min: 214
+    max: 540
+    median: 1638.38
+    mean: 450.648
+    sigma: 49.3797
+    variance: 2438.35
+    sum: 354660
+    region: index(107, 115, 127) size(53, 27, 25)
+    bounding box: (107, 159) (115, 141) (127, 151) 

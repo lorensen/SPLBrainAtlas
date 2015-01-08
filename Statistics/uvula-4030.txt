@@ -1,0 +1,12 @@
+Name:  uvula
+Label: 4030
+    count: 69
+    min: 260
+    max: 618
+    median: 1638.38
+    mean: 452.971
+    sigma: 68.0802
+    variance: 4634.91
+    sum: 31255
+    region: index(95, 227, 130) size(5, 8, 8)
+    bounding box: (95, 99) (227, 234) (130, 137) 

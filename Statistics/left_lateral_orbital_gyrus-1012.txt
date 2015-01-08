@@ -1,0 +1,12 @@
+Name:  left_lateral_orbital_gyrus
+Label: 1012
+    count: 8616
+    min: 122
+    max: 600
+    median: 1638.38
+    mean: 372.102
+    sigma: 57.6504
+    variance: 3323.57
+    sum: 3.20603e+06
+    region: index(53, 114, 136) size(58, 34, 41)
+    bounding box: (53, 110) (114, 147) (136, 176) 

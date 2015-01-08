@@ -1,0 +1,12 @@
+Name:  left_I_II_v
+Label: 300
+    count: 337
+    min: 229
+    max: 545
+    median: 1638.38
+    mean: 432.131
+    sigma: 61.3325
+    variance: 3761.67
+    sum: 145628
+    region: index(159, 158, 126) size(11, 12, 13)
+    bounding box: (159, 169) (158, 169) (126, 138) 

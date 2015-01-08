@@ -1,0 +1,12 @@
+Name:  anterior_commissure
+Label: 142
+    count: 723
+    min: 282
+    max: 553
+    median: 1638.38
+    mean: 468.361
+    sigma: 40.0746
+    variance: 1605.97
+    sum: 338625
+    region: index(107, 129, 104) size(16, 11, 48)
+    bounding box: (107, 122) (129, 139) (104, 151) 

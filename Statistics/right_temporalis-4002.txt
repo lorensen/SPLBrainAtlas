@@ -1,0 +1,12 @@
+Name:  right_temporalis
+Label: 4002
+    count: 37651
+    min: 28
+    max: 37936
+    median: 1638.38
+    mean: 411.329
+    sigma: 344.747
+    variance: 118851
+    sum: 1.54869e+07
+    region: index(61, 104, 54) size(98, 111, 45)
+    bounding box: (61, 158) (104, 214) (54, 98) 

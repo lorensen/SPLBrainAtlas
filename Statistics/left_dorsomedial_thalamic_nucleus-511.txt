@@ -1,0 +1,12 @@
+Name:  left_dorsomedial_thalamic_nucleus
+Label: 511
+    count: 927
+    min: 304
+    max: 484
+    median: 1638.38
+    mean: 415.12
+    sigma: 28.0369
+    variance: 786.067
+    sum: 384816
+    region: index(124, 119, 127) size(16, 18, 9)
+    bounding box: (124, 139) (119, 136) (127, 135) 

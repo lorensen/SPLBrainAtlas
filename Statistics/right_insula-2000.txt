@@ -1,0 +1,12 @@
+Name:  right_insula
+Label: 2000
+    count: 6462
+    min: 72
+    max: 4724
+    median: 1638.38
+    mean: 316.432
+    sigma: 79.5648
+    variance: 6330.55
+    sum: 2.04478e+06
+    region: index(90, 113, 86) size(60, 32, 22)
+    bounding box: (90, 149) (113, 144) (86, 107) 

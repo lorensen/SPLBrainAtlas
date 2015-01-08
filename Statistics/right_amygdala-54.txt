@@ -1,0 +1,12 @@
+Name:  right_amygdala
+Label: 54
+    count: 1932
+    min: 172
+    max: 495
+    median: 1638.38
+    mean: 375.786
+    sigma: 36.5651
+    variance: 1337.01
+    sum: 726019
+    region: index(112, 140, 99) size(19, 19, 22)
+    bounding box: (112, 130) (140, 158) (99, 120) 

@@ -1,0 +1,12 @@
+Name:  right_inferior_tuberal_hypothalamus
+Label: 388
+    count: 196
+    min: 281
+    max: 526
+    median: 1638.38
+    mean: 404.577
+    sigma: 36.1823
+    variance: 1309.16
+    sum: 79297
+    region: index(114, 138, 120) size(8, 7, 10)
+    bounding box: (114, 121) (138, 144) (120, 129) 

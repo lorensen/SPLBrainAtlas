@@ -1,0 +1,12 @@
+Name:  right_inferior_temporal_gyrus
+Label: 2009
+    count: 11154
+    min: 126
+    max: 560
+    median: 1638.38
+    mean: 378.806
+    sigma: 51.7533
+    variance: 2678.41
+    sum: 4.2252e+06
+    region: index(96, 149, 65) size(87, 32, 41)
+    bounding box: (96, 182) (149, 180) (65, 105) 

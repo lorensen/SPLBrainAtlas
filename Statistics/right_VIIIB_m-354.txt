@@ -1,0 +1,12 @@
+Name:  right_VIIIB_m
+Label: 354
+    count: 3095
+    min: 188
+    max: 644
+    median: 1638.38
+    mean: 507.506
+    sigma: 60.5369
+    variance: 3664.71
+    sum: 1.57073e+06
+    region: index(148, 181, 111) size(33, 24, 14)
+    bounding box: (148, 180) (181, 204) (111, 124) 

@@ -1,0 +1,12 @@
+Name:  white_matter_of_left_cerebral_hemisphere
+Label: 2
+    count: 233003
+    min: 146
+    max: 779
+    median: 1638.38
+    mean: 521.673
+    sigma: 58.5226
+    variance: 3424.89
+    sum: 1.21551e+08
+    region: index(51, 66, 122) size(173, 106, 66)
+    bounding box: (51, 223) (66, 171) (122, 187) 

@@ -1,0 +1,12 @@
+Name:  right_anterior_inferior_hypothalamus
+Label: 386
+    count: 27
+    min: 209
+    max: 462
+    median: 1638.38
+    mean: 396.481
+    sigma: 61.6194
+    variance: 3796.95
+    sum: 10705
+    region: index(112, 137, 123) size(3, 5, 5)
+    bounding box: (112, 114) (137, 141) (123, 127) 

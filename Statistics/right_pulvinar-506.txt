@@ -1,0 +1,12 @@
+Name:  right_pulvinar
+Label: 506
+    count: 1672
+    min: 181
+    max: 483
+    median: 1638.38
+    mean: 394.081
+    sigma: 38.9542
+    variance: 1517.43
+    sum: 658903
+    region: index(136, 118, 104) size(18, 23, 23)
+    bounding box: (136, 153) (118, 140) (104, 126) 

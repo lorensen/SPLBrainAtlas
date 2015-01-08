@@ -1,0 +1,12 @@
+Name:  left_caudate_nucleus
+Label: 11
+    count: 4713
+    min: 112
+    max: 517
+    median: 1638.38
+    mean: 385.845
+    sigma: 47.8033
+    variance: 2285.16
+    sum: 1.81849e+06
+    region: index(92, 106, 131) size(65, 27, 18)
+    bounding box: (92, 156) (106, 132) (131, 148) 

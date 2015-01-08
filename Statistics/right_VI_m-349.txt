@@ -1,0 +1,12 @@
+Name:  right_VI_m
+Label: 349
+    count: 2437
+    min: 164
+    max: 563
+    median: 1638.38
+    mean: 408.114
+    sigma: 63.7368
+    variance: 4062.38
+    sum: 994573
+    region: index(170, 162, 111) size(30, 17, 14)
+    bounding box: (170, 199) (162, 178) (111, 124) 

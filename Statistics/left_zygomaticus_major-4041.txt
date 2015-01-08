@@ -1,0 +1,12 @@
+Name:  left_zygomaticus_major
+Label: 4041
+    count: 1433
+    min: 50
+    max: 13739
+    median: 1638.38
+    mean: 247.765
+    sigma: 385.415
+    variance: 148544
+    sum: 355047
+    region: index(48, 179, 164) size(28, 30, 25)
+    bounding box: (48, 75) (179, 208) (164, 188) 

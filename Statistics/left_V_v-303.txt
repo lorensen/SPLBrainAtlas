@@ -1,0 +1,12 @@
+Name:  left_V_v
+Label: 303
+    count: 1898
+    min: 171
+    max: 564
+    median: 1638.38
+    mean: 404.867
+    sigma: 64.6266
+    variance: 4176.59
+    sum: 768438
+    region: index(162, 150, 128) size(25, 24, 15)
+    bounding box: (162, 186) (150, 173) (128, 142) 

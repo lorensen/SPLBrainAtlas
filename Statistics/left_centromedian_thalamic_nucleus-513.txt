@@ -1,0 +1,12 @@
+Name:  left_centromedian_thalamic_nucleus
+Label: 513
+    count: 258
+    min: 394
+    max: 493
+    median: 1638.38
+    mean: 445.016
+    sigma: 15.5396
+    variance: 241.478
+    sum: 114814
+    region: index(130, 125, 134) size(14, 9, 7)
+    bounding box: (130, 143) (125, 133) (134, 140) 

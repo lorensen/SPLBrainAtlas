@@ -1,0 +1,12 @@
+Name:  left_subthalamic_nucleus
+Label: 391
+    count: 31
+    min: 434
+    max: 531
+    median: 1638.38
+    mean: 493.387
+    sigma: 17.2871
+    variance: 298.845
+    sum: 15295
+    region: index(127, 137, 131) size(3, 6, 6)
+    bounding box: (127, 129) (137, 142) (131, 136) 

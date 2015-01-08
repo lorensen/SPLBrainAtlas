@@ -1,0 +1,12 @@
+Name:  right_III_m
+Label: 346
+    count: 139
+    min: 289
+    max: 533
+    median: 1638.38
+    mean: 444.712
+    sigma: 45.5363
+    variance: 2073.55
+    sum: 61815
+    region: index(154, 160, 116) size(10, 10, 5)
+    bounding box: (154, 163) (160, 169) (116, 120) 

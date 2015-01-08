@@ -1,0 +1,12 @@
+Name:  white_matter_of_left_hemisphere_of_cerebellum
+Label: 7
+    count: 14149
+    min: 208
+    max: 662
+    median: 1638.38
+    mean: 536.265
+    sigma: 52.6164
+    variance: 2768.48
+    sum: 7.58761e+06
+    region: index(141, 158, 126) size(64, 41, 54)
+    bounding box: (141, 204) (158, 198) (126, 179) 
