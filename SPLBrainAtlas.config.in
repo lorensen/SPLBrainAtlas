@@ -1,0 +1,13 @@
+AtlasName: SPLBrainAtlas
+ColorTableFileName: @SPLBrainAtlas_SOURCE_DIR@/Atlas/SPLBrainAtlasColors.ctbl
+AdjacenciesFileName: @SPLBrainAtlas_SOURCE_DIR@/Models/adjacencies.txt
+VolumeFileName: @SPLBrainAtlas_SOURCE_DIR@/Atlas/SPLBrainAtlasVolume.nrrd
+LabelFileName: @SPLBrainAtlas_SOURCE_DIR@/Atlas/SPLBrainAtlasLabels.nrrd
+ModelsDirectory: @SPLBrainAtlas_SOURCE_DIR@/Models
+VTKDirectory: @SPLBrainAtlas_SOURCE_DIR@/Models/VTK
+STLDirectory: @SPLBrainAtlas_SOURCE_DIR@/Models/STL
+ScreenshotDirectory: @SPLBrainAtlas_SOURCE_DIR@/Models/Screenshot
+ChangesDirectory: @SPLBrainAtlas_SOURCE_DIR@/Changes
+StatisticsDirectory: @SPLBrainAtlas_SOURCE_DIR@/Statistics
+MRMLDirectory: @SPLBrainAtlas_BINARY_DIR@/MRML
+GitDirectory: @SPLBrainAtlas_SOURCE_DIR@
