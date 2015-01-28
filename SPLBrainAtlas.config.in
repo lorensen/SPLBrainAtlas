@@ -11,3 +11,5 @@ ChangesDirectory: @SPLBrainAtlas_SOURCE_DIR@/Changes
 StatisticsDirectory: @SPLBrainAtlas_SOURCE_DIR@/Statistics
 MRMLDirectory: @SPLBrainAtlas_BINARY_DIR@/MRML
 GitDirectory: @SPLBrainAtlas_SOURCE_DIR@
+FiducialsDirectory: @SPLBrainAtlas_BINARY_DIR@/Fiducials
+
