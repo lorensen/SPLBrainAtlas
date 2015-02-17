@@ -1,12 +1,12 @@
 Name:  rostral_part_of_left_anterior_cingulate_gyrus
 Label: 1026
-    count: 2224
+    count: 2225
     min: 134
     max: 527
     median: 1638.38
-    mean: 322.526
-    sigma: 46.2659
-    variance: 2140.53
-    sum: 717297
+    mean: 322.527
+    sigma: 46.2555
+    variance: 2139.57
+    sum: 717623
     region: index(68, 100, 128) size(33, 33, 15)
     bounding box: (68, 100) (100, 132) (128, 142) 

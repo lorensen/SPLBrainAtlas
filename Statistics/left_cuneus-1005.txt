@@ -1,12 +1,12 @@
 Name:  left_cuneus
 Label: 1005
-    count: 2734
+    count: 2735
     min: 182
     max: 586
     median: 1638.38
-    mean: 414.212
-    sigma: 67.3082
-    variance: 4530.39
-    sum: 1.13246e+06
+    mean: 414.201
+    sigma: 67.2984
+    variance: 4529.07
+    sum: 1.13284e+06
     region: index(186, 121, 120) size(32, 27, 24)
     bounding box: (186, 217) (121, 147) (120, 143) 

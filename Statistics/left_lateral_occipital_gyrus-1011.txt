@@ -1,12 +1,12 @@
 Name:  left_lateral_occipital_gyrus
 Label: 1011
-    count: 13771
+    count: 13775
     min: 225
     max: 713
     median: 1638.38
-    mean: 456.388
-    sigma: 73.5772
-    variance: 5413.6
-    sum: 6.28492e+06
+    mean: 456.374
+    sigma: 73.5739
+    variance: 5413.12
+    sum: 6.28655e+06
     region: index(182, 128, 121) size(44, 45, 57)
     bounding box: (182, 225) (128, 172) (121, 177) 

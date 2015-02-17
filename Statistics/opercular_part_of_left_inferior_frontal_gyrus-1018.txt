@@ -1,12 +1,12 @@
 Name:  opercular_part_of_left_inferior_frontal_gyrus
 Label: 1018
-    count: 5691
+    count: 5690
     min: 132
     max: 643
     median: 1638.38
-    mean: 399.943
-    sigma: 73.9604
-    variance: 5470.14
-    sum: 2.27608e+06
+    mean: 399.958
+    sigma: 73.9585
+    variance: 5469.86
+    sum: 2.27576e+06
     region: index(93, 85, 155) size(29, 44, 28)
     bounding box: (93, 121) (85, 128) (155, 182) 

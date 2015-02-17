@@ -1,12 +1,12 @@
 Name:  left_superior_parietal_lobule
 Label: 1029
-    count: 16159
+    count: 16160
     min: 138
     max: 710
     median: 1638.38
-    mean: 445.119
-    sigma: 89.2347
-    variance: 7962.83
-    sum: 7.19268e+06
+    mean: 445.115
+    sigma: 89.2336
+    variance: 7962.63
+    sum: 7.19306e+06
     region: index(158, 77, 122) size(64, 68, 44)
     bounding box: (158, 221) (77, 144) (122, 165) 

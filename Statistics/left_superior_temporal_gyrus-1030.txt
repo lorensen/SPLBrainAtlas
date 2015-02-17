@@ -1,12 +1,12 @@
 Name:  left_superior_temporal_gyrus
 Label: 1030
-    count: 13715
+    count: 13714
     min: 95
     max: 38000
     median: 1638.38
-    mean: 384.296
-    sigma: 428.043
-    variance: 183221
-    sum: 5.27062e+06
+    mean: 384.295
+    sigma: 428.059
+    variance: 183234
+    sum: 5.27023e+06
     region: index(93, 116, 154) size(83, 37, 37)
     bounding box: (93, 175) (116, 152) (154, 190) 
