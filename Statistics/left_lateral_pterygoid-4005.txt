@@ -1,12 +1,12 @@
 Name:  left_lateral_pterygoid
 Label: 4005
-    count: 6384
+    count: 6381
     min: 64
     max: 22905
     median: 1638.38
-    mean: 438.95
-    sigma: 354.33
-    variance: 125550
-    sum: 2.80226e+06
+    mean: 439
+    sigma: 354.403
+    variance: 125602
+    sum: 2.80126e+06
     region: index(88, 179, 154) size(33, 24, 27)
     bounding box: (88, 120) (179, 202) (154, 180) 

@@ -1,12 +1,12 @@
 Name:  left_masseter
 Label: 4003
-    count: 22321
+    count: 22319
     min: 42
     max: 38003
     median: 1638.38
-    mean: 391.708
-    sigma: 442.588
-    variance: 195884
-    sum: 8.74332e+06
+    mean: 391.731
+    sigma: 442.601
+    variance: 195896
+    sum: 8.74304e+06
     region: index(65, 175, 165) size(49, 71, 27)
     bounding box: (65, 113) (175, 245) (165, 191) 

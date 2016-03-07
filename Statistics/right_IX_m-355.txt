@@ -1,12 +1,12 @@
 Name:  right_IX_m
 Label: 355
-    count: 2224
+    count: 2292
     min: 202
     max: 648
     median: 1638.38
-    mean: 506.504
-    sigma: 60.9574
-    variance: 3715.8
-    sum: 1.12646e+06
-    region: index(154, 178, 111) size(21, 23, 17)
-    bounding box: (154, 174) (178, 200) (111, 127) 
+    mean: 506.061
+    sigma: 60.8054
+    variance: 3697.3
+    sum: 1.15989e+06
+    region: index(154, 178, 111) size(21, 23, 19)
+    bounding box: (154, 174) (178, 200) (111, 129) 
