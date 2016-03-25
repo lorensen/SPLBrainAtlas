@@ -7,6 +7,6 @@ Label: 2007
     mean: 380.799
     sigma: 39.0232
     variance: 1522.81
-    sum: 4.1766e+06
+    sum: 4.17660e+06
     region: index(95, 149, 82) size(99, 31, 30)
     bounding box: (95, 193) (149, 179) (82, 111) 
