@@ -14,4 +14,4 @@ set(MRML_FILENAME ${CMAKE_SOURCE_DIR}/Atlas/${ATLAS_NAME}.mrml.in)
 
 configure_file(${CMAKE_SOURCE_DIR}/${ATLAS_NAME}.config.in  ${CMAKE_BINARY_DIR}/${ATLAS_NAME}.config @ONLY)
 
-configure_file(${CMAKE_SOURCE_DIR}/${ATLAS_NAME}.mrml.in  ${CMAKE_BINARY_DIR}/${ATLAS_NAME}.mrml @ONLY)
+configure_file(${CMAKE_SOURCE_DIR}/Atlas/${ATLAS_NAME}.mrml.in  ${CMAKE_BINARY_DIR}/${ATLAS_NAME}.mrml @ONLY)
