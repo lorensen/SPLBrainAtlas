@@ -14,5 +14,5 @@ FiducialsDirectory: @SPLBrainAtlas_BINARY_DIR@/Fiducials
 GitDirectory: @SPLBrainAtlas_SOURCE_DIR@
 GitURL: https://github.com/lorensen/SPLBrainAtlas
 GitWikiDirectory: @SPLBrainAtlas_SOURCE_DIR@/wiki
-
+WikipediaUrls: @SPLBrainAtlas_SOURCE_DIR@/Atlas/SPLBrainAtlasWikipedia.txt
 
