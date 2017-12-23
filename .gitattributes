@@ -1,5 +1,0 @@
-*.vtk filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.stl filter=lfs diff=lfs merge=lfs -text
-Atlas/SPLBrainAtlasLabels.nrrd filter=lfs diff=lfs merge=lfs -text
-Atlas/SPLBrainAtlasVolume.nrrd filter=lfs diff=lfs merge=lfs -text
