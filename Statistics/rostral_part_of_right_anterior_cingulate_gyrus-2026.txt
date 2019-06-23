@@ -3,10 +3,10 @@ Label: 2026
     count: 1983
     min: 119
     max: 514
-    median: 1638.38
-    mean: 343.271
-    sigma: 54.6944
-    variance: 2991.48
-    sum: 680706
+    median: 383.994
+    mean: 343.276
+    sigma: 54.6946
+    variance: 2991.5
+    sum: 680716
     region: index(72, 100, 118) size(25, 31, 15)
     bounding box: (72, 96) (100, 130) (118, 132) 

@@ -3,10 +3,10 @@ Label: 2010
     count: 2682
     min: 127
     max: 502
-    median: 1638.38
-    mean: 385.899
-    sigma: 40.4216
-    variance: 1633.9
-    sum: 1.03498e+06
+    median: 383.994
+    mean: 385.903
+    sigma: 40.4209
+    variance: 1633.85
+    sum: 1.03499e+06
     region: index(150, 103, 109) size(29, 45, 18)
     bounding box: (150, 178) (103, 147) (109, 126) 

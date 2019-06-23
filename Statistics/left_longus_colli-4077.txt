@@ -3,10 +3,10 @@ Label: 4077
     count: 1524
     min: 111
     max: 745
-    median: 1638.38
+    median: 639.99
     mean: 508.767
-    sigma: 97.9671
-    variance: 9597.56
+    sigma: 97.9684
+    variance: 9597.8
     sum: 775361
     region: index(113, 208, 132) size(9, 39, 19)
     bounding box: (113, 121) (208, 246) (132, 150) 

@@ -3,10 +3,10 @@ Label: 2007
     count: 10968
     min: 217
     max: 520
-    median: 1638.38
-    mean: 380.799
-    sigma: 39.0232
-    variance: 1522.81
-    sum: 4.1766e+06
+    median: 383.994
+    mean: 380.801
+    sigma: 39.0255
+    variance: 1522.99
+    sum: 4.17663e+06
     region: index(95, 149, 82) size(99, 31, 30)
     bounding box: (95, 193) (149, 179) (82, 111) 

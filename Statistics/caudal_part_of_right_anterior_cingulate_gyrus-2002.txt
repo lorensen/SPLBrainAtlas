@@ -3,10 +3,10 @@ Label: 2002
     count: 3022
     min: 148
     max: 509
-    median: 1638.38
-    mean: 355.385
+    median: 383.994
+    mean: 355.388
     sigma: 53.1236
     variance: 2822.12
-    sum: 1.07397e+06
+    sum: 1.07398e+06
     region: index(81, 86, 116) size(40, 28, 14)
     bounding box: (81, 120) (86, 113) (116, 129) 

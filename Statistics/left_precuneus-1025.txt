@@ -3,10 +3,10 @@ Label: 1025
     count: 11962
     min: 132
     max: 649
-    median: 1638.38
-    mean: 390.798
-    sigma: 61.4856
-    variance: 3780.48
-    sum: 4.67473e+06
+    median: 383.994
+    mean: 390.8
+    sigma: 61.4883
+    variance: 3780.82
+    sum: 4.67475e+06
     region: index(163, 81, 120) size(44, 66, 30)
     bounding box: (163, 206) (81, 146) (120, 149) 

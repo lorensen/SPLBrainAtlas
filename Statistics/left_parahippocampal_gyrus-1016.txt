@@ -3,10 +3,10 @@ Label: 1016
     count: 1961
     min: 153
     max: 543
-    median: 1638.38
+    median: 383.994
     mean: 388.165
-    sigma: 54.427
-    variance: 2962.3
-    sum: 761192
+    sigma: 54.4319
+    variance: 2962.83
+    sum: 761191
     region: index(134, 142, 135) size(28, 23, 25)
     bounding box: (134, 161) (142, 164) (135, 159) 

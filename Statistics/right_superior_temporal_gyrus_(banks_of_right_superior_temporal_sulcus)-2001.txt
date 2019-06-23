@@ -3,10 +3,10 @@ Label: 2001
     count: 2367
     min: 130
     max: 599
-    median: 1638.38
-    mean: 389.22
-    sigma: 65.18
-    variance: 4248.43
-    sum: 921283
+    median: 383.994
+    mean: 389.226
+    sigma: 65.1825
+    variance: 4248.76
+    sum: 921297
     region: index(150, 124, 63) size(19, 29, 26)
     bounding box: (150, 168) (124, 152) (63, 88) 

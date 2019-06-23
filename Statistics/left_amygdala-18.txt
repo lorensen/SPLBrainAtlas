@@ -3,10 +3,10 @@ Label: 18
     count: 1705
     min: 157
     max: 534
-    median: 1638.38
+    median: 383.994
     mean: 384.737
-    sigma: 45.4371
-    variance: 2064.53
+    sigma: 45.4359
+    variance: 2064.42
     sum: 655976
     region: index(116, 138, 139) size(15, 20, 21)
     bounding box: (116, 130) (138, 157) (139, 159) 

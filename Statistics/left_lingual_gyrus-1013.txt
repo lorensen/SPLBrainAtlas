@@ -3,10 +3,10 @@ Label: 1013
     count: 8421
     min: 164
     max: 531
-    median: 1638.38
-    mean: 383.11
-    sigma: 50.8318
-    variance: 2583.87
-    sum: 3.22617e+06
+    median: 383.994
+    mean: 383.112
+    sigma: 50.831
+    variance: 2583.79
+    sum: 3.22619e+06
     region: index(157, 137, 120) size(55, 36, 36)
     bounding box: (157, 211) (137, 172) (120, 155) 

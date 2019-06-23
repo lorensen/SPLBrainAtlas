@@ -3,10 +3,10 @@ Label: 365
     count: 4136
     min: 139
     max: 636
-    median: 1638.38
-    mean: 478.316
-    sigma: 67.9529
-    variance: 4617.59
-    sum: 1.97832e+06
+    median: 383.994
+    mean: 478.319
+    sigma: 67.9519
+    variance: 4617.45
+    sum: 1.97833e+06
     region: index(146, 183, 94) size(33, 23, 17)
     bounding box: (146, 178) (183, 205) (94, 110) 

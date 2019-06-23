@@ -3,10 +3,10 @@ Label: 2024
     count: 15323
     min: 94
     max: 8409
-    median: 1638.38
-    mean: 439.39
-    sigma: 105.133
-    variance: 11052.9
-    sum: 6.73278e+06
+    median: 383.994
+    mean: 439.396
+    sigma: 105.132
+    variance: 11052.8
+    sum: 6.73287e+06
     region: index(101, 67, 67) size(64, 65, 53)
     bounding box: (101, 164) (67, 131) (67, 119) 

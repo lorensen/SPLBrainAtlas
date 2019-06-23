@@ -3,10 +3,10 @@ Label: 1018
     count: 5690
     min: 132
     max: 643
-    median: 1638.38
-    mean: 399.958
-    sigma: 73.9585
-    variance: 5469.86
-    sum: 2.27576e+06
+    median: 383.994
+    mean: 399.962
+    sigma: 73.9558
+    variance: 5469.46
+    sum: 2.27578e+06
     region: index(93, 85, 155) size(29, 44, 28)
     bounding box: (93, 121) (85, 128) (155, 182) 

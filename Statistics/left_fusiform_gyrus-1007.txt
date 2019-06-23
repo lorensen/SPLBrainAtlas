@@ -3,10 +3,10 @@ Label: 1007
     count: 10020
     min: 183
     max: 568
-    median: 1638.38
-    mean: 375.228
-    sigma: 45.4826
-    variance: 2068.67
-    sum: 3.75979e+06
+    median: 383.994
+    mean: 375.233
+    sigma: 45.4835
+    variance: 2068.75
+    sum: 3.75983e+06
     region: index(103, 144, 142) size(96, 30, 32)
     bounding box: (103, 198) (144, 173) (142, 173) 

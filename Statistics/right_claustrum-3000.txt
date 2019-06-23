@@ -3,10 +3,10 @@ Label: 3000
     count: 1830
     min: 301
     max: 482
-    median: 1638.38
-    mean: 412.15
-    sigma: 30.551
-    variance: 933.365
-    sum: 754234
+    median: 383.994
+    mean: 412.155
+    sigma: 30.5491
+    variance: 933.248
+    sum: 754244
     region: index(92, 120, 93) size(40, 22, 18)
     bounding box: (92, 131) (120, 141) (93, 110) 

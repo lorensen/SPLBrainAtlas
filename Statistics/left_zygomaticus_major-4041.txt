@@ -3,10 +3,10 @@ Label: 4041
     count: 1433
     min: 50
     max: 13739
-    median: 1638.38
-    mean: 247.765
-    sigma: 385.415
-    variance: 148544
-    sum: 355047
+    median: 127.998
+    mean: 247.763
+    sigma: 385.423
+    variance: 148551
+    sum: 355044
     region: index(48, 179, 164) size(28, 30, 25)
     bounding box: (48, 75) (179, 208) (164, 188) 

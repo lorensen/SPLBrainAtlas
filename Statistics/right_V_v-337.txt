@@ -3,10 +3,10 @@ Label: 337
     count: 910
     min: 171
     max: 556
-    median: 1638.38
-    mean: 405.818
-    sigma: 71.4462
-    variance: 5104.56
-    sum: 369294
+    median: 383.994
+    mean: 405.824
+    sigma: 71.4536
+    variance: 5105.62
+    sum: 369300
     region: index(171, 151, 120) size(15, 22, 8)
     bounding box: (171, 185) (151, 172) (120, 127) 

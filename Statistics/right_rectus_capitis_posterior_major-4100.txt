@@ -3,10 +3,10 @@ Label: 4100
     count: 3003
     min: 56
     max: 3093
-    median: 1638.38
-    mean: 412.166
-    sigma: 116.491
-    variance: 13570.2
-    sum: 1.23773e+06
+    median: 383.994
+    mean: 412.171
+    sigma: 116.493
+    variance: 13570.6
+    sum: 1.23775e+06
     region: index(154, 211, 95) size(23, 28, 36)
     bounding box: (154, 176) (211, 238) (95, 130) 

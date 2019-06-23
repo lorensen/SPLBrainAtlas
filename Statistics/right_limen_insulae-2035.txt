@@ -3,10 +3,10 @@ Label: 2035
     count: 924
     min: 153
     max: 482
-    median: 1638.38
-    mean: 367.748
-    sigma: 47.3002
-    variance: 2237.31
-    sum: 339799
+    median: 383.994
+    mean: 367.747
+    sigma: 47.297
+    variance: 2237.01
+    sum: 339798
     region: index(102, 145, 92) size(16, 12, 24)
     bounding box: (102, 117) (145, 156) (92, 115) 

@@ -3,10 +3,10 @@ Label: 4082
     count: 72
     min: 64
     max: 13823
-    median: 1638.38
-    mean: 929.181
-    sigma: 2424.9
-    variance: 5.88016e+06
-    sum: 66901
+    median: 383.994
+    mean: 929.167
+    sigma: 2424.91
+    variance: 5.88018e+06
+    sum: 66900
     region: index(115, 189, 95) size(7, 4, 8)
     bounding box: (115, 121) (189, 192) (95, 102) 

@@ -3,10 +3,10 @@ Label: 96
     count: 228
     min: 186
     max: 497
-    median: 1638.38
-    mean: 321.175
-    sigma: 69.0578
-    variance: 4768.98
-    sum: 73228
+    median: 383.994
+    mean: 321.193
+    sigma: 69.0587
+    variance: 4769.11
+    sum: 73232
     region: index(97, 113, 128) size(33, 11, 1)
     bounding box: (97, 129) (113, 123) (128, 128) 

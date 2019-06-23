@@ -3,10 +3,10 @@ Label: 4087
     count: 6278
     min: 105
     max: 22830
-    median: 1638.38
-    mean: 531.428
-    sigma: 300.9
-    variance: 90541.1
-    sum: 3.33631e+06
+    median: 639.99
+    mean: 531.431
+    sigma: 300.902
+    variance: 90541.8
+    sum: 3.33632e+06
     region: index(108, 183, 132) size(15, 65, 28)
     bounding box: (108, 122) (183, 247) (132, 159) 

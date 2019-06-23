@@ -3,10 +3,10 @@ Label: 356
     count: 598
     min: 152
     max: 595
-    median: 1638.38
-    mean: 418.156
-    sigma: 95.6962
-    variance: 9157.76
-    sum: 250057
+    median: 383.994
+    mean: 418.167
+    sigma: 95.6954
+    variance: 9157.61
+    sum: 250064
     region: index(141, 168, 102) size(15, 21, 15)
     bounding box: (141, 155) (168, 188) (102, 116) 

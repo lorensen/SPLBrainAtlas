@@ -3,10 +3,10 @@ Label: 2020
     count: 4395
     min: 94
     max: 1135
-    median: 1638.38
-    mean: 383.886
-    sigma: 67.7844
-    variance: 4594.72
-    sum: 1.68718e+06
+    median: 383.994
+    mean: 383.889
+    sigma: 67.787
+    variance: 4595.07
+    sum: 1.68719e+06
     region: index(66, 106, 72) size(35, 28, 32)
     bounding box: (66, 100) (106, 133) (72, 103) 

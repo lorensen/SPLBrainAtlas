@@ -3,10 +3,10 @@ Label: 2027
     count: 19140
     min: 74
     max: 4723
-    median: 1638.38
-    mean: 392.827
-    sigma: 86.1447
-    variance: 7420.92
-    sum: 7.51872e+06
+    median: 383.994
+    mean: 392.831
+    sigma: 86.1448
+    variance: 7420.93
+    sum: 7.51879e+06
     region: index(46, 73, 72) size(73, 62, 50)
     bounding box: (46, 118) (73, 134) (72, 121) 

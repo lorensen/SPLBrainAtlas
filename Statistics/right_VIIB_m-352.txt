@@ -3,10 +3,10 @@ Label: 352
     count: 832
     min: 261
     max: 606
-    median: 1638.38
-    mean: 468.219
-    sigma: 58.923
-    variance: 3471.92
-    sum: 389558
+    median: 383.994
+    mean: 468.225
+    sigma: 58.9218
+    variance: 3471.78
+    sum: 389563
     region: index(177, 175, 111) size(17, 24, 14)
     bounding box: (177, 193) (175, 198) (111, 124) 

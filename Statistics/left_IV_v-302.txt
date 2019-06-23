@@ -3,10 +3,10 @@ Label: 302
     count: 1472
     min: 158
     max: 531
-    median: 1638.38
+    median: 383.994
     mean: 389.55
-    sigma: 67.1602
-    variance: 4510.49
-    sum: 573418
+    sigma: 67.1628
+    variance: 4510.84
+    sum: 573417
     region: index(152, 149, 128) size(28, 18, 15)
     bounding box: (152, 179) (149, 166) (128, 142) 

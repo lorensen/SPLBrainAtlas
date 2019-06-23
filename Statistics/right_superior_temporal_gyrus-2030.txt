@@ -3,10 +3,10 @@ Label: 2030
     count: 14756
     min: 86
     max: 6494
-    median: 1638.38
-    mean: 360.354
-    sigma: 102.266
-    variance: 10458.3
-    sum: 5.31738e+06
+    median: 383.994
+    mean: 360.358
+    sigma: 102.265
+    variance: 10458.1
+    sum: 5.31744e+06
     region: index(85, 120, 61) size(77, 36, 39)
     bounding box: (85, 161) (120, 155) (61, 99) 

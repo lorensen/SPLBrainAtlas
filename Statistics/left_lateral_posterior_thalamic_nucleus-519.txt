@@ -3,10 +3,10 @@ Label: 519
     count: 981
     min: 315
     max: 494
-    median: 1638.38
-    mean: 436.977
-    sigma: 18.5584
-    variance: 344.413
-    sum: 428674
+    median: 383.994
+    mean: 436.982
+    sigma: 18.5627
+    variance: 344.573
+    sum: 428679
     region: index(133, 116, 135) size(17, 13, 13)
     bounding box: (133, 149) (116, 128) (135, 147) 

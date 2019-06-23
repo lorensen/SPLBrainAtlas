@@ -3,10 +3,10 @@ Label: 4074
     count: 1901
     min: 68
     max: 8481
-    median: 1638.38
-    mean: 430.489
+    median: 383.994
+    mean: 430.49
     sigma: 224.414
     variance: 50361.5
-    sum: 818359
+    sum: 818362
     region: index(140, 221, 80) size(21, 17, 20)
     bounding box: (140, 160) (221, 237) (80, 99) 

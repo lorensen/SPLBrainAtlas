@@ -3,10 +3,10 @@ Label: 4097
     count: 6986
     min: 100
     max: 1979
-    median: 1638.38
-    mean: 497.691
-    sigma: 74.1949
-    variance: 5504.89
-    sum: 3.47687e+06
+    median: 383.994
+    mean: 497.693
+    sigma: 74.1936
+    variance: 5504.7
+    sum: 3.47688e+06
     region: index(118, 219, 136) size(43, 29, 39)
     bounding box: (118, 160) (219, 247) (136, 174) 

@@ -3,10 +3,10 @@ Label: 345
     count: 79
     min: 255
     max: 548
-    median: 1638.38
-    mean: 418.506
-    sigma: 71.0873
-    variance: 5053.41
-    sum: 33062
+    median: 383.994
+    mean: 418.519
+    sigma: 71.076
+    variance: 5051.79
+    sum: 33063
     region: index(164, 171, 125) size(9, 11, 3)
     bounding box: (164, 172) (171, 181) (125, 127) 

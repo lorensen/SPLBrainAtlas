@@ -3,10 +3,10 @@ Label: 357
     count: 2545
     min: 170
     max: 523
-    median: 1638.38
-    mean: 393.262
-    sigma: 53.5106
-    variance: 2863.38
-    sum: 1.00085e+06
+    median: 383.994
+    mean: 393.267
+    sigma: 53.5084
+    variance: 2863.15
+    sum: 1.00086e+06
     region: index(144, 159, 96) size(33, 21, 16)
     bounding box: (144, 176) (159, 179) (96, 111) 

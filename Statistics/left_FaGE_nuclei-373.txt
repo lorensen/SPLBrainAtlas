@@ -3,10 +3,10 @@ Label: 373
     count: 373
     min: 211
     max: 573
-    median: 1638.38
-    mean: 508.45
-    sigma: 50.5083
-    variance: 2551.09
-    sum: 189652
+    median: 639.99
+    mean: 508.458
+    sigma: 50.5096
+    variance: 2551.22
+    sum: 189655
     region: index(161, 165, 128) size(15, 13, 16)
     bounding box: (161, 175) (165, 177) (128, 143) 

@@ -3,10 +3,10 @@ Label: 4004
     count: 23311
     min: 42
     max: 37970
-    median: 1638.38
-    mean: 393.373
+    median: 383.994
+    mean: 393.377
     sigma: 399.793
     variance: 159834
-    sum: 9.16992e+06
+    sum: 9.17001e+06
     region: index(62, 176, 71) size(52, 72, 31)
     bounding box: (62, 113) (176, 247) (71, 101) 

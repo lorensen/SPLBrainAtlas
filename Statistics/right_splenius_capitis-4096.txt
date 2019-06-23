@@ -3,10 +3,10 @@ Label: 4096
     count: 14549
     min: 84
     max: 13988
-    median: 1638.38
-    mean: 426.245
+    median: 383.994
+    mean: 426.249
     sigma: 142.739
-    variance: 20374.4
-    sum: 6.20144e+06
+    variance: 20374.3
+    sum: 6.2015e+06
     region: index(135, 198, 68) size(63, 50, 63)
     bounding box: (135, 197) (198, 247) (68, 130) 

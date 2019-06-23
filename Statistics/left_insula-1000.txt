@@ -3,10 +3,10 @@ Label: 1000
     count: 6893
     min: 151
     max: 493
-    median: 1638.38
-    mean: 348.764
-    sigma: 41.8853
-    variance: 1754.38
-    sum: 2.40403e+06
+    median: 383.994
+    mean: 348.77
+    sigma: 41.8836
+    variance: 1754.23
+    sum: 2.40407e+06
     region: index(96, 109, 151) size(66, 34, 20)
     bounding box: (96, 161) (109, 142) (151, 170) 

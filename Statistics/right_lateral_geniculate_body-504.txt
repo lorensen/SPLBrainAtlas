@@ -3,10 +3,10 @@ Label: 504
     count: 261
     min: 382
     max: 500
-    median: 1638.38
-    mean: 447.946
-    sigma: 20.3055
-    variance: 412.312
-    sum: 116914
+    median: 383.994
+    mean: 447.954
+    sigma: 20.314
+    variance: 412.659
+    sum: 116916
     region: index(140, 138, 106) size(11, 7, 9)
     bounding box: (140, 150) (138, 144) (106, 114) 

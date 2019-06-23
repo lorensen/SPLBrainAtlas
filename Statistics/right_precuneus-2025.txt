@@ -3,10 +3,10 @@ Label: 2025
     count: 12111
     min: 149
     max: 733
-    median: 1638.38
-    mean: 414.756
-    sigma: 65.351
-    variance: 4270.76
-    sum: 5.02311e+06
+    median: 383.994
+    mean: 414.762
+    sigma: 65.3542
+    variance: 4271.17
+    sum: 5.02318e+06
     region: index(157, 75, 97) size(50, 67, 30)
     bounding box: (157, 206) (75, 141) (97, 126) 

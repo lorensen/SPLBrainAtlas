@@ -3,10 +3,10 @@ Label: 4007
     count: 8287
     min: 60
     max: 13820
-    median: 1638.38
-    mean: 458.175
+    median: 383.994
+    mean: 458.18
     sigma: 234.213
     variance: 54855.8
-    sum: 3.7969e+06
+    sum: 3.79694e+06
     region: index(88, 199, 146) size(25, 44, 29)
     bounding box: (88, 112) (199, 242) (146, 174) 

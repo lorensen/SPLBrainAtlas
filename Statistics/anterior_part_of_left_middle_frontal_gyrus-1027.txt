@@ -3,10 +3,10 @@ Label: 1027
     count: 14334
     min: 83
     max: 638
-    median: 1638.38
-    mean: 386.876
-    sigma: 79.6662
-    variance: 6346.71
-    sum: 5.54548e+06
+    median: 383.994
+    mean: 386.879
+    sigma: 79.6667
+    variance: 6346.79
+    sum: 5.54552e+06
     region: index(50, 75, 143) size(57, 58, 35)
     bounding box: (50, 106) (75, 132) (143, 177) 

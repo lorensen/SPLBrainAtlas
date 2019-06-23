@@ -3,10 +3,10 @@ Label: 4073
     count: 1714
     min: 144
     max: 563
-    median: 1638.38
-    mean: 451.628
-    sigma: 61.257
-    variance: 3752.42
-    sum: 774091
+    median: 383.994
+    mean: 451.631
+    sigma: 61.2601
+    variance: 3752.8
+    sum: 774095
     region: index(141, 219, 166) size(19, 17, 18)
     bounding box: (141, 159) (219, 235) (166, 183) 

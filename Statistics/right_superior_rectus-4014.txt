@@ -3,7 +3,7 @@ Label: 4014
     count: 804
     min: 80
     max: 22906
-    median: 1638.38
+    median: 383.994
     mean: 380.256
     sigma: 1112.38
     variance: 1.23739e+06

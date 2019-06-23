@@ -3,10 +3,10 @@ Label: 2034
     count: 1154
     min: 132
     max: 457
-    median: 1638.38
-    mean: 357.633
-    sigma: 49.8852
-    variance: 2488.54
-    sum: 412709
+    median: 383.994
+    mean: 357.634
+    sigma: 49.8858
+    variance: 2488.59
+    sum: 412710
     region: index(127, 122, 77) size(24, 15, 21)
     bounding box: (127, 150) (122, 136) (77, 97) 

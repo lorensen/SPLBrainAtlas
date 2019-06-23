@@ -3,10 +3,10 @@ Label: 314
     count: 806
     min: 203
     max: 535
-    median: 1638.38
+    median: 383.994
     mean: 407.81
-    sigma: 54.475
-    variance: 2967.53
+    sigma: 54.4743
+    variance: 2967.45
     sum: 328695
     region: index(155, 157, 143) size(26, 16, 4)
     bounding box: (155, 180) (157, 172) (143, 146) 

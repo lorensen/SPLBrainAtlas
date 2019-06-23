@@ -3,7 +3,7 @@ Label: 390
     count: 33
     min: 478
     max: 528
-    median: 1638.38
+    median: 383.994
     mean: 496.03
     sigma: 12.4612
     variance: 155.28

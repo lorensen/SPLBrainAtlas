@@ -3,10 +3,10 @@ Label: 2028
     count: 23461
     min: 113
     max: 673
-    median: 1638.38
-    mean: 406.898
-    sigma: 80.1151
-    variance: 6418.42
-    sum: 9.54622e+06
+    median: 383.994
+    mean: 406.9
+    sigma: 80.116
+    variance: 6418.58
+    sum: 9.54629e+06
     region: index(48, 65, 97) size(100, 54, 36)
     bounding box: (48, 147) (65, 118) (97, 132) 

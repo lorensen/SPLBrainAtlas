@@ -3,10 +3,10 @@ Label: 4042
     count: 1437
     min: 26
     max: 22887
-    median: 1638.38
-    mean: 255.738
-    sigma: 640.278
+    median: 127.998
+    mean: 255.736
+    sigma: 640.277
     variance: 409955
-    sum: 367495
+    sum: 367493
     region: index(43, 183, 76) size(29, 33, 27)
     bounding box: (43, 71) (183, 215) (76, 102) 

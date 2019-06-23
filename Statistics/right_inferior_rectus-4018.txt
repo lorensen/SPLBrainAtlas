@@ -3,10 +3,10 @@ Label: 4018
     count: 692
     min: 65
     max: 16453
-    median: 1638.38
+    median: 383.994
     mean: 374.059
-    sigma: 836.026
-    variance: 698939
+    sigma: 836.025
+    variance: 698938
     sum: 258849
     region: index(56, 155, 100) size(31, 13, 16)
     bounding box: (56, 86) (155, 167) (100, 115) 

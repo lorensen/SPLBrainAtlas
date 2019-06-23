@@ -3,10 +3,10 @@ Label: 2015
     count: 12735
     min: 128
     max: 551
-    median: 1638.38
-    mean: 360.222
-    sigma: 58.4502
-    variance: 3416.42
-    sum: 4.58743e+06
+    median: 383.994
+    mean: 360.229
+    sigma: 58.4501
+    variance: 3416.41
+    sum: 4.58751e+06
     region: index(87, 133, 62) size(91, 40, 34)
     bounding box: (87, 177) (133, 172) (62, 95) 

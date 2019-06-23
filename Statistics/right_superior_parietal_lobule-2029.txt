@@ -3,10 +3,10 @@ Label: 2029
     count: 14368
     min: 166
     max: 705
-    median: 1638.38
-    mean: 449
-    sigma: 84.4108
-    variance: 7125.18
-    sum: 6.45123e+06
+    median: 383.994
+    mean: 449.004
+    sigma: 84.4153
+    variance: 7125.94
+    sum: 6.45128e+06
     region: index(157, 74, 84) size(61, 72, 38)
     bounding box: (157, 217) (74, 145) (84, 121) 

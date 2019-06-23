@@ -3,10 +3,10 @@ Label: 516
     count: 877
     min: 400
     max: 507
-    median: 1638.38
-    mean: 445.727
-    sigma: 20.6487
-    variance: 426.37
-    sum: 390903
+    median: 383.994
+    mean: 445.731
+    sigma: 20.6517
+    variance: 426.494
+    sum: 390906
     region: index(124, 118, 110) size(13, 22, 14)
     bounding box: (124, 136) (118, 139) (110, 123) 

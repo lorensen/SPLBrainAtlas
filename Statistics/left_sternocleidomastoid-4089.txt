@@ -3,10 +3,10 @@ Label: 4089
     count: 8943
     min: 108
     max: 841
-    median: 1638.38
-    mean: 440.945
-    sigma: 91.1206
-    variance: 8302.96
-    sum: 3.94337e+06
+    median: 383.994
+    mean: 440.948
+    sigma: 91.1201
+    variance: 8302.87
+    sum: 3.9434e+06
     region: index(117, 209, 169) size(58, 39, 28)
     bounding box: (117, 174) (209, 247) (169, 196) 

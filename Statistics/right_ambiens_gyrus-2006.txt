@@ -3,10 +3,10 @@ Label: 2006
     count: 2780
     min: 194
     max: 613
-    median: 1638.38
-    mean: 400.776
-    sigma: 40.8311
-    variance: 1667.18
+    median: 383.994
+    mean: 400.778
+    sigma: 40.831
+    variance: 1667.17
     sum: 1.11416e+06
     region: index(92, 153, 96) size(36, 18, 23)
     bounding box: (92, 127) (153, 170) (96, 118) 

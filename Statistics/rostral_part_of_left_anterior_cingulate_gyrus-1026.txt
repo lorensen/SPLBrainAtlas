@@ -3,10 +3,10 @@ Label: 1026
     count: 2225
     min: 134
     max: 527
-    median: 1638.38
-    mean: 322.527
-    sigma: 46.2555
-    variance: 2139.57
-    sum: 717623
+    median: 383.994
+    mean: 322.532
+    sigma: 46.2582
+    variance: 2139.82
+    sum: 717634
     region: index(68, 100, 128) size(33, 33, 15)
     bounding box: (68, 100) (100, 132) (128, 142) 

@@ -3,10 +3,10 @@ Label: 3007
     count: 786
     min: 214
     max: 540
-    median: 1638.38
-    mean: 450.659
-    sigma: 49.4102
-    variance: 2441.36
-    sum: 354218
+    median: 383.994
+    mean: 450.664
+    sigma: 49.4058
+    variance: 2440.93
+    sum: 354222
     region: index(107, 115, 127) size(53, 27, 25)
     bounding box: (107, 159) (115, 141) (127, 151) 

@@ -3,10 +3,10 @@ Label: 362
     count: 1729
     min: 152
     max: 601
-    median: 1638.38
-    mean: 431.674
-    sigma: 78.3531
-    variance: 6139.2
-    sum: 746364
+    median: 383.994
+    mean: 431.675
+    sigma: 78.3521
+    variance: 6139.05
+    sum: 746366
     region: index(150, 181, 95) size(53, 17, 16)
     bounding box: (150, 202) (181, 197) (95, 110) 

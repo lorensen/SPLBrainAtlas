@@ -3,8 +3,8 @@ Label: 4006
     count: 5185
     min: 65
     max: 8429
-    median: 1638.38
-    mean: 417.767
+    median: 383.994
+    mean: 417.766
     sigma: 143.088
     variance: 20474.1
     sum: 2.16612e+06

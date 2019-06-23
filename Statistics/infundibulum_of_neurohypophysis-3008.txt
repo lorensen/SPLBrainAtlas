@@ -3,10 +3,10 @@ Label: 3008
     count: 63
     min: 174
     max: 443
-    median: 1638.38
-    mean: 335.127
-    sigma: 63.9462
-    variance: 4089.11
-    sum: 21113
+    median: 383.994
+    mean: 335.159
+    sigma: 63.9764
+    variance: 4092.97
+    sum: 21115
     region: index(111, 145, 129) size(7, 10, 3)
     bounding box: (111, 117) (145, 154) (129, 131) 

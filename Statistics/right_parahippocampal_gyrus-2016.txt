@@ -3,10 +3,10 @@ Label: 2016
     count: 1902
     min: 245
     max: 585
-    median: 1638.38
+    median: 383.994
     mean: 398.093
-    sigma: 49.204
-    variance: 2421.03
+    sigma: 49.2021
+    variance: 2420.85
     sum: 757173
     region: index(118, 150, 95) size(34, 17, 22)
     bounding box: (118, 151) (150, 166) (95, 116) 

@@ -3,10 +3,10 @@ Label: 1024
     count: 16832
     min: 90
     max: 4733
-    median: 1638.38
-    mean: 445.521
-    sigma: 97.926
-    variance: 9589.51
-    sum: 7.49901e+06
+    median: 383.994
+    mean: 445.525
+    sigma: 97.9269
+    variance: 9589.67
+    sum: 7.49908e+06
     region: index(104, 63, 126) size(67, 65, 61)
     bounding box: (104, 170) (63, 127) (126, 186) 

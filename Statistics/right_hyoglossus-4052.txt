@@ -3,10 +3,10 @@ Label: 4052
     count: 689
     min: 248
     max: 632
-    median: 1638.38
-    mean: 448.235
-    sigma: 62.6518
-    variance: 3925.24
-    sum: 308834
+    median: 383.994
+    mean: 448.245
+    sigma: 62.6587
+    variance: 3926.11
+    sum: 308841
     region: index(95, 220, 108) size(10, 28, 9)
     bounding box: (95, 104) (220, 247) (108, 116) 

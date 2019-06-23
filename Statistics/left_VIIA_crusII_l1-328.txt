@@ -3,10 +3,10 @@ Label: 328
     count: 1940
     min: 192
     max: 577
-    median: 1638.38
-    mean: 431.781
-    sigma: 59.7096
-    variance: 3565.24
-    sum: 837656
+    median: 383.994
+    mean: 431.786
+    sigma: 59.7131
+    variance: 3565.66
+    sum: 837664
     region: index(160, 182, 147) size(47, 14, 19)
     bounding box: (160, 206) (182, 195) (147, 165) 

@@ -2,11 +2,11 @@ Name:  right_FaGE_nuclei
 Label: 377
     count: 346
     min: 279
-    max: 559
-    median: 1638.38
-    mean: 505.257
-    sigma: 35.6192
-    variance: 1268.73
-    sum: 174819
+    max: 560
+    median: 383.994
+    mean: 505.263
+    sigma: 35.6256
+    variance: 1269.18
+    sum: 174821
     region: index(160, 166, 114) size(14, 12, 15)
     bounding box: (160, 173) (166, 177) (114, 128) 

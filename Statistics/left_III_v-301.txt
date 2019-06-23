@@ -3,10 +3,10 @@ Label: 301
     count: 939
     min: 188
     max: 530
-    median: 1638.38
-    mean: 409.044
-    sigma: 63.5578
-    variance: 4039.59
-    sum: 384092
+    median: 383.994
+    mean: 409.049
+    sigma: 63.5585
+    variance: 4039.68
+    sum: 384097
     region: index(155, 149, 128) size(19, 21, 14)
     bounding box: (155, 173) (149, 169) (128, 141) 

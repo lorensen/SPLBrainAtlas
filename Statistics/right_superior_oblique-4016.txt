@@ -3,10 +3,10 @@ Label: 4016
     count: 477
     min: 99
     max: 37975
-    median: 1638.38
-    mean: 416.839
+    median: 383.994
+    mean: 416.834
     sigma: 1761.32
     variance: 3.10225e+06
-    sum: 198832
+    sum: 198830
     region: index(53, 140, 111) size(29, 12, 9)
     bounding box: (53, 81) (140, 151) (111, 119) 

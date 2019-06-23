@@ -3,10 +3,10 @@ Label: 4045
     count: 449
     min: 74
     max: 899
-    median: 1638.38
+    median: 383.994
     mean: 327.225
-    sigma: 124.74
-    variance: 15560.1
+    sigma: 124.737
+    variance: 15559.3
     sum: 146924
     region: index(34, 172, 143) size(15, 18, 16)
     bounding box: (34, 48) (172, 189) (143, 158) 

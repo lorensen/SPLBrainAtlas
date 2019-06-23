@@ -3,10 +3,10 @@ Label: 327
     count: 4326
     min: 109
     max: 580
-    median: 1638.38
-    mean: 401.241
-    sigma: 67.3607
-    variance: 4537.46
+    median: 383.994
+    mean: 401.242
+    sigma: 67.3649
+    variance: 4538.03
     sum: 1.73577e+06
     region: index(162, 167, 147) size(45, 21, 19)
     bounding box: (162, 206) (167, 187) (147, 165) 

@@ -3,10 +3,10 @@ Label: 367
     count: 1551
     min: 139
     max: 575
-    median: 1638.38
-    mean: 401.804
-    sigma: 86.7869
-    variance: 7531.96
-    sum: 623198
+    median: 383.994
+    mean: 401.81
+    sigma: 86.7896
+    variance: 7532.44
+    sum: 623208
     region: index(148, 181, 82) size(43, 18, 13)
     bounding box: (148, 190) (181, 198) (82, 94) 

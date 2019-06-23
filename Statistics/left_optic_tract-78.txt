@@ -3,10 +3,10 @@ Label: 78
     count: 291
     min: 148
     max: 569
-    median: 1638.38
-    mean: 461.691
-    sigma: 79.3117
-    variance: 6290.34
-    sum: 134352
+    median: 383.994
+    mean: 461.687
+    sigma: 79.3007
+    variance: 6288.61
+    sum: 134351
     region: index(114, 138, 131) size(22, 9, 21)
     bounding box: (114, 135) (138, 146) (131, 151) 

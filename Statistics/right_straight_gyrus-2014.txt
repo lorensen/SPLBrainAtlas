@@ -3,10 +3,10 @@ Label: 2014
     count: 5345
     min: 172
     max: 564
-    median: 1638.38
-    mean: 380.067
-    sigma: 56.1893
-    variance: 3157.24
-    sum: 2.03146e+06
+    median: 383.994
+    mean: 380.071
+    sigma: 56.1888
+    variance: 3157.18
+    sum: 2.03148e+06
     region: index(50, 111, 116) size(61, 38, 16)
     bounding box: (50, 110) (111, 148) (116, 131) 

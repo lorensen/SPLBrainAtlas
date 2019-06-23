@@ -3,10 +3,10 @@ Label: 25
     count: 889
     min: 355
     max: 539
-    median: 1638.38
-    mean: 478.498
-    sigma: 15.6766
-    variance: 245.755
-    sum: 425385
+    median: 383.994
+    mean: 478.496
+    sigma: 15.6771
+    variance: 245.771
+    sum: 425383
     region: index(112, 125, 138) size(26, 15, 16)
     bounding box: (112, 137) (125, 139) (138, 153) 

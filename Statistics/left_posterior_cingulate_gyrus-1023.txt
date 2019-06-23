@@ -3,10 +3,10 @@ Label: 1023
     count: 3725
     min: 137
     max: 507
-    median: 1638.38
-    mean: 355.871
-    sigma: 47.3324
-    variance: 2240.36
-    sum: 1.32562e+06
+    median: 383.994
+    mean: 355.874
+    sigma: 47.3307
+    variance: 2240.19
+    sum: 1.32563e+06
     region: index(120, 87, 123) size(46, 28, 18)
     bounding box: (120, 165) (87, 114) (123, 140) 

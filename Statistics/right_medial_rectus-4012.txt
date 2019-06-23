@@ -3,10 +3,10 @@ Label: 4012
     count: 728
     min: 94
     max: 9299
-    median: 1638.38
-    mean: 392.218
+    median: 383.994
+    mean: 392.225
     sigma: 354.075
     variance: 125369
-    sum: 285535
+    sum: 285540
     region: index(56, 147, 111) size(29, 11, 8)
     bounding box: (56, 84) (147, 157) (111, 118) 

@@ -3,10 +3,10 @@ Label: 4017
     count: 667
     min: 64
     max: 13882
-    median: 1638.38
-    mean: 432.151
-    sigma: 602.883
+    median: 383.994
+    mean: 432.157
+    sigma: 602.882
     variance: 363467
-    sum: 288245
+    sum: 288249
     region: index(59, 155, 149) size(28, 11, 18)
     bounding box: (59, 86) (155, 165) (149, 166) 

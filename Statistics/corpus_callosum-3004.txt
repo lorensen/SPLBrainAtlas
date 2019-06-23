@@ -3,10 +3,10 @@ Label: 3004
     count: 27013
     min: 96
     max: 13783
-    median: 1638.38
-    mean: 487.016
-    sigma: 93.8023
-    variance: 8798.88
-    sum: 1.31558e+07
+    median: 383.994
+    mean: 487.02
+    sigma: 93.8022
+    variance: 8798.85
+    sum: 1.31559e+07
     region: index(79, 100, 101) size(98, 40, 45)
     bounding box: (79, 176) (100, 139) (101, 145) 

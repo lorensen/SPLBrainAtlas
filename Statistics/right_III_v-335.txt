@@ -3,10 +3,10 @@ Label: 335
     count: 749
     min: 166
     max: 533
-    median: 1638.38
-    mean: 405.857
-    sigma: 75.4059
-    variance: 5686.04
-    sum: 303987
+    median: 383.994
+    mean: 405.853
+    sigma: 75.407
+    variance: 5686.21
+    sum: 303984
     region: index(157, 149, 120) size(17, 21, 8)
     bounding box: (157, 173) (149, 169) (120, 127) 

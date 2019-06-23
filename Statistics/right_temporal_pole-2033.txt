@@ -3,10 +3,10 @@ Label: 2033
     count: 2588
     min: 152
     max: 543
-    median: 1638.38
-    mean: 355.963
-    sigma: 52.9427
-    variance: 2802.93
-    sum: 921233
+    median: 383.994
+    mean: 355.97
+    sigma: 52.9399
+    variance: 2802.63
+    sum: 921250
     region: index(84, 146, 90) size(27, 22, 21)
     bounding box: (84, 110) (146, 167) (90, 110) 

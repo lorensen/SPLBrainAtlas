@@ -3,7 +3,7 @@ Label: 306
     count: 20
     min: 373
     max: 508
-    median: 1638.38
+    median: 383.994
     mean: 456.55
     sigma: 34.4177
     variance: 1184.58

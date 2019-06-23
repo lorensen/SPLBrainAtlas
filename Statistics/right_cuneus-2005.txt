@@ -3,10 +3,10 @@ Label: 2005
     count: 4342
     min: 185
     max: 701
-    median: 1638.38
-    mean: 440.274
-    sigma: 80.4447
-    variance: 6471.35
-    sum: 1.91167e+06
+    median: 383.994
+    mean: 440.278
+    sigma: 80.445
+    variance: 6471.4
+    sum: 1.91169e+06
     region: index(174, 117, 104) size(48, 33, 22)
     bounding box: (174, 221) (117, 149) (104, 125) 

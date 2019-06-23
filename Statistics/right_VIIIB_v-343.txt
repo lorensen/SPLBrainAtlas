@@ -3,10 +3,10 @@ Label: 343
     count: 98
     min: 232
     max: 556
-    median: 1638.38
-    mean: 433.643
-    sigma: 84.352
-    variance: 7115.26
-    sum: 42497
+    median: 383.994
+    mean: 433.653
+    sigma: 84.3631
+    variance: 7117.14
+    sum: 42498
     region: index(174, 174, 123) size(7, 15, 5)
     bounding box: (174, 180) (174, 188) (123, 127) 

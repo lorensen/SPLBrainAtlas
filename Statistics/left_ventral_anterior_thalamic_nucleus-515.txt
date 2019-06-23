@@ -3,10 +3,10 @@ Label: 515
     count: 674
     min: 363
     max: 527
-    median: 1638.38
-    mean: 464.381
-    sigma: 25.994
-    variance: 675.686
-    sum: 312993
+    median: 383.994
+    mean: 464.383
+    sigma: 25.9917
+    variance: 675.571
+    sum: 312994
     region: index(119, 121, 131) size(13, 17, 10)
     bounding box: (119, 131) (121, 137) (131, 140) 

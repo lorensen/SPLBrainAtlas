@@ -3,10 +3,10 @@ Label: 2003
     count: 4817
     min: 123
     max: 602
-    median: 1638.38
-    mean: 403.136
-    sigma: 66.1666
-    variance: 4378.01
+    median: 383.994
+    mean: 403.134
+    sigma: 66.1637
+    variance: 4377.64
     sum: 1.9419e+06
     region: index(91, 74, 81) size(37, 35, 26)
     bounding box: (91, 127) (74, 108) (81, 106) 

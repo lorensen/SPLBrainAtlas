@@ -3,10 +3,10 @@ Label: 1019
     count: 2367
     min: 169
     max: 564
-    median: 1638.38
-    mean: 380.255
-    sigma: 54.3186
-    variance: 2950.51
-    sum: 900064
+    median: 383.994
+    mean: 380.258
+    sigma: 54.3192
+    variance: 2950.57
+    sum: 900071
     region: index(63, 113, 160) size(36, 22, 18)
     bounding box: (63, 98) (113, 134) (160, 177) 

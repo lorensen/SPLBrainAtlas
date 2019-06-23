@@ -3,10 +3,10 @@ Label: 4022
     count: 779
     min: 50
     max: 22995
-    median: 1638.38
-    mean: 459.591
+    median: 383.994
+    mean: 459.584
     sigma: 1460
     variance: 2.13159e+06
-    sum: 358021
+    sum: 358016
     region: index(50, 133, 94) size(36, 16, 18)
     bounding box: (50, 85) (133, 148) (94, 111) 

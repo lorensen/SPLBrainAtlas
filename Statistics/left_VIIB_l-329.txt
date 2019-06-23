@@ -3,10 +3,10 @@ Label: 329
     count: 2177
     min: 139
     max: 592
-    median: 1638.38
-    mean: 426.344
-    sigma: 72.9636
-    variance: 5323.69
-    sum: 928150
+    median: 383.994
+    mean: 426.348
+    sigma: 72.9651
+    variance: 5323.9
+    sum: 928159
     region: index(152, 180, 147) size(44, 21, 33)
     bounding box: (152, 195) (180, 200) (147, 179) 

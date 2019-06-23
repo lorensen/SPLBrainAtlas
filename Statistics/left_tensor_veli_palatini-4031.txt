@@ -3,10 +3,10 @@ Label: 4031
     count: 209
     min: 169
     max: 22876
-    median: 1638.38
-    mean: 653.292
+    median: 639.99
+    mean: 653.297
     sigma: 1626.24
     variance: 2.64464e+06
-    sum: 136538
+    sum: 136539
     region: index(92, 204, 142) size(11, 10, 9)
     bounding box: (92, 102) (204, 213) (142, 150) 

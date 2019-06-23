@@ -3,10 +3,10 @@ Label: 310
     count: 457
     min: 185
     max: 574
-    median: 1638.38
-    mean: 471.453
-    sigma: 52.252
-    variance: 2730.27
-    sum: 215454
+    median: 383.994
+    mean: 471.455
+    sigma: 52.2583
+    variance: 2730.93
+    sum: 215455
     region: index(166, 174, 128) size(9, 15, 11)
     bounding box: (166, 174) (174, 188) (128, 138) 

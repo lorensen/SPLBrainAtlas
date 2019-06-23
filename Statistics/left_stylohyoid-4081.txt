@@ -3,7 +3,7 @@ Label: 4081
     count: 45
     min: 264
     max: 918
-    median: 1638.38
+    median: 383.994
     mean: 517.489
     sigma: 163.887
     variance: 26859.1

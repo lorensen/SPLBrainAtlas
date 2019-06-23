@@ -3,7 +3,7 @@ Label: 508
     count: 212
     min: 263
     max: 489
-    median: 1638.38
+    median: 383.994
     mean: 433.41
     sigma: 29.8253
     variance: 889.551

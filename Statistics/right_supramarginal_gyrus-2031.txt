@@ -3,10 +3,10 @@ Label: 2031
     count: 10838
     min: 107
     max: 703
-    median: 1638.38
-    mean: 425.145
-    sigma: 81.3621
-    variance: 6619.79
-    sum: 4.60772e+06
+    median: 383.994
+    mean: 425.148
+    sigma: 81.3616
+    variance: 6619.71
+    sum: 4.60776e+06
     region: index(132, 89, 63) size(47, 41, 35)
     bounding box: (132, 178) (89, 129) (63, 97) 

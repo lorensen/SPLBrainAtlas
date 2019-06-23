@@ -3,10 +3,10 @@ Label: 4083
     count: 883
     min: 110
     max: 1319
-    median: 1638.38
-    mean: 500.623
-    sigma: 98.129
-    variance: 9629.29
-    sum: 442050
+    median: 639.99
+    mean: 500.625
+    sigma: 98.1284
+    variance: 9629.19
+    sum: 442052
     region: index(121, 189, 136) size(10, 17, 23)
     bounding box: (121, 130) (189, 205) (136, 158) 

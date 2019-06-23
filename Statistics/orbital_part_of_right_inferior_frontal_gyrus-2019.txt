@@ -3,10 +3,10 @@ Label: 2019
     count: 3127
     min: 107
     max: 535
-    median: 1638.38
-    mean: 362.948
-    sigma: 62.8966
-    variance: 3955.98
+    median: 383.994
+    mean: 362.95
+    sigma: 62.8949
+    variance: 3955.77
     sum: 1.13494e+06
     region: index(51, 115, 81) size(40, 25, 27)
     bounding box: (51, 90) (115, 139) (81, 107) 

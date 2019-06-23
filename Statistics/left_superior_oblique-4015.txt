@@ -3,10 +3,10 @@ Label: 4015
     count: 530
     min: 59
     max: 22863
-    median: 1638.38
-    mean: 397.332
+    median: 383.994
+    mean: 397.33
     sigma: 1041.56
     variance: 1.08484e+06
-    sum: 210586
+    sum: 210585
     region: index(54, 137, 143) size(28, 11, 9)
     bounding box: (54, 81) (137, 147) (143, 151) 

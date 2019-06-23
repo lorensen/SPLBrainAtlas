@@ -3,10 +3,10 @@ Label: 4061
     count: 163
     min: 232
     max: 654
-    median: 1638.38
-    mean: 497.043
-    sigma: 85.5291
-    variance: 7315.23
-    sum: 81018
+    median: 639.99
+    mean: 497.037
+    sigma: 85.5309
+    variance: 7315.53
+    sum: 81017
     region: index(109, 187, 147) size(13, 7, 11)
     bounding box: (109, 121) (187, 193) (147, 157) 

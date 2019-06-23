@@ -3,7 +3,7 @@ Label: 389
     count: 37
     min: 353
     max: 472
-    median: 1638.38
+    median: 383.994
     mean: 429.649
     sigma: 31.8357
     variance: 1013.51

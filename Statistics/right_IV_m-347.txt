@@ -3,10 +3,10 @@ Label: 347
     count: 895
     min: 185
     max: 529
-    median: 1638.38
-    mean: 394.987
-    sigma: 59.2617
-    variance: 3511.95
-    sum: 353513
+    median: 383.994
+    mean: 394.991
+    sigma: 59.2594
+    variance: 3511.68
+    sum: 353517
     region: index(144, 150, 108) size(25, 21, 13)
     bounding box: (144, 168) (150, 170) (108, 120) 

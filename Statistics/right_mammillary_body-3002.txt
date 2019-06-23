@@ -3,10 +3,10 @@ Label: 3002
     count: 77
     min: 258
     max: 504
-    median: 1638.38
-    mean: 449.883
-    sigma: 45.6157
-    variance: 2080.79
-    sum: 34641
+    median: 383.994
+    mean: 449.896
+    sigma: 45.6242
+    variance: 2081.57
+    sum: 34642
     region: index(120, 142, 125) size(6, 5, 5)
     bounding box: (120, 125) (142, 146) (125, 129) 

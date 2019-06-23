@@ -3,10 +3,10 @@ Label: 524
     count: 989
     min: 376
     max: 484
-    median: 1638.38
-    mean: 435.879
-    sigma: 18.362
-    variance: 337.161
-    sum: 431084
+    median: 383.994
+    mean: 435.881
+    sigma: 18.3552
+    variance: 336.913
+    sum: 431086
     region: index(135, 127, 105) size(16, 15, 16)
     bounding box: (135, 150) (127, 141) (105, 120) 
